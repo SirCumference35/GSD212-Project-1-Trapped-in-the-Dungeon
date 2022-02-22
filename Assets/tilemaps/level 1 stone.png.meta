@@ -1,0 +1,3012 @@
+fileFormatVersion: 2
+guid: 55105af064ad6204ebb7fd4e783fd10c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 859554251718655810
+    second: level 1 stone_0
+  - first:
+      213: 7270961954970353477
+    second: level 1 stone_1
+  - first:
+      213: -6409796999608769836
+    second: level 1 stone_2
+  - first:
+      213: -6714414469411286717
+    second: level 1 stone_3
+  - first:
+      213: 3884148459420391541
+    second: level 1 stone_4
+  - first:
+      213: -4588317361986721881
+    second: level 1 stone_5
+  - first:
+      213: 3025742845061294269
+    second: level 1 stone_6
+  - first:
+      213: -372157675585465816
+    second: level 1 stone_7
+  - first:
+      213: -4804406105459156024
+    second: level 1 stone_8
+  - first:
+      213: 1701007016051862171
+    second: level 1 stone_9
+  - first:
+      213: -8102426905181534962
+    second: level 1 stone_10
+  - first:
+      213: 2256036292969544025
+    second: level 1 stone_11
+  - first:
+      213: 7586641637160763960
+    second: level 1 stone_12
+  - first:
+      213: 8694326807489000766
+    second: level 1 stone_13
+  - first:
+      213: 6940697629780703349
+    second: level 1 stone_14
+  - first:
+      213: 1987176621145131447
+    second: level 1 stone_15
+  - first:
+      213: -5939406323263437469
+    second: level 1 stone_16
+  - first:
+      213: 5546053188418533120
+    second: level 1 stone_17
+  - first:
+      213: -1185849735523251674
+    second: level 1 stone_18
+  - first:
+      213: -7411352883142477515
+    second: level 1 stone_19
+  - first:
+      213: 4223420133935609957
+    second: level 1 stone_20
+  - first:
+      213: 1309657500284835529
+    second: level 1 stone_21
+  - first:
+      213: -3423056777223292355
+    second: level 1 stone_22
+  - first:
+      213: 7494644086415019584
+    second: level 1 stone_23
+  - first:
+      213: -7129092775958022936
+    second: level 1 stone_24
+  - first:
+      213: -8603340405462962045
+    second: level 1 stone_25
+  - first:
+      213: 2812738409933906455
+    second: level 1 stone_26
+  - first:
+      213: 4530602138933682773
+    second: level 1 stone_27
+  - first:
+      213: -2120738219976322280
+    second: level 1 stone_28
+  - first:
+      213: -2602446826590090083
+    second: level 1 stone_29
+  - first:
+      213: -3585291575847951184
+    second: level 1 stone_30
+  - first:
+      213: -1620290764843599938
+    second: level 1 stone_31
+  - first:
+      213: 4144597116935215948
+    second: level 1 stone_32
+  - first:
+      213: -693827312829102229
+    second: level 1 stone_33
+  - first:
+      213: 1168390170895286017
+    second: level 1 stone_34
+  - first:
+      213: -5836639323368137464
+    second: level 1 stone_35
+  - first:
+      213: 1291426139223292787
+    second: level 1 stone_36
+  - first:
+      213: 718134276213880082
+    second: level 1 stone_37
+  - first:
+      213: 5009560622555602265
+    second: level 1 stone_38
+  - first:
+      213: -8503941973873138327
+    second: level 1 stone_39
+  - first:
+      213: -3983815553348750501
+    second: level 1 stone_40
+  - first:
+      213: -470572107173573179
+    second: level 1 stone_41
+  - first:
+      213: -3561373100886681549
+    second: level 1 stone_42
+  - first:
+      213: -654119438286317212
+    second: level 1 stone_43
+  - first:
+      213: 3907856005066656390
+    second: level 1 stone_44
+  - first:
+      213: 6238042219615563717
+    second: level 1 stone_45
+  - first:
+      213: 5918204206867540496
+    second: level 1 stone_46
+  - first:
+      213: -8685949855998862081
+    second: level 1 stone_47
+  - first:
+      213: -2509485563070651369
+    second: level 1 stone_48
+  - first:
+      213: 5963894138879122515
+    second: level 1 stone_49
+  - first:
+      213: -337278137335590049
+    second: level 1 stone_50
+  - first:
+      213: -8642760289116048088
+    second: level 1 stone_51
+  - first:
+      213: -7976656863318416804
+    second: level 1 stone_52
+  - first:
+      213: 1094997057184322446
+    second: level 1 stone_53
+  - first:
+      213: 128712100798968597
+    second: level 1 stone_54
+  - first:
+      213: 727341444789590880
+    second: level 1 stone_55
+  - first:
+      213: 5249300203833096739
+    second: level 1 stone_56
+  - first:
+      213: -3170561321568543306
+    second: level 1 stone_57
+  - first:
+      213: 2473385537034875432
+    second: level 1 stone_58
+  - first:
+      213: -2692158293188784137
+    second: level 1 stone_59
+  - first:
+      213: 5141836757981949492
+    second: level 1 stone_60
+  - first:
+      213: 8507146980492423975
+    second: level 1 stone_61
+  - first:
+      213: 4686007621754324206
+    second: level 1 stone_62
+  - first:
+      213: -2227881028224731207
+    second: level 1 stone_63
+  - first:
+      213: 6363021713857376660
+    second: level 1 stone_64
+  - first:
+      213: 5436279851712586729
+    second: level 1 stone_65
+  - first:
+      213: 3464805648246536119
+    second: level 1 stone_66
+  - first:
+      213: 645093097645264525
+    second: level 1 stone_67
+  - first:
+      213: -5934507620357734006
+    second: level 1 stone_68
+  - first:
+      213: 1915275939769234976
+    second: level 1 stone_69
+  - first:
+      213: 5719865756404761931
+    second: level 1 stone_70
+  - first:
+      213: -3107820272370105528
+    second: level 1 stone_71
+  - first:
+      213: 6385487586669727435
+    second: level 1 stone_72
+  - first:
+      213: 2561581347333712363
+    second: level 1 stone_73
+  - first:
+      213: 7036975666591686874
+    second: level 1 stone_74
+  - first:
+      213: 3108532953488297936
+    second: level 1 stone_75
+  - first:
+      213: -9162927224754394575
+    second: level 1 stone_76
+  - first:
+      213: -797611013048478826
+    second: level 1 stone_77
+  - first:
+      213: -287552898613001023
+    second: level 1 stone_78
+  - first:
+      213: 3522448705954744985
+    second: level 1 stone_79
+  - first:
+      213: -7608680470167602930
+    second: level 1 stone_80
+  - first:
+      213: -9083195988599344656
+    second: level 1 stone_81
+  - first:
+      213: -6350120548301236651
+    second: level 1 stone_82
+  - first:
+      213: 9018666807672246340
+    second: level 1 stone_83
+  - first:
+      213: 2276760675296378612
+    second: level 1 stone_84
+  - first:
+      213: -7770255214345118284
+    second: level 1 stone_85
+  - first:
+      213: 2859224775265365583
+    second: level 1 stone_86
+  - first:
+      213: -3533429751198196109
+    second: level 1 stone_87
+  - first:
+      213: 1960775085295817361
+    second: level 1 stone_88
+  - first:
+      213: 5116736357570336390
+    second: level 1 stone_89
+  - first:
+      213: 2090611922924877651
+    second: level 1 stone_90
+  - first:
+      213: -1838390213349182926
+    second: level 1 stone_91
+  - first:
+      213: -1257150133082593605
+    second: level 1 stone_92
+  - first:
+      213: -5625217808187154404
+    second: level 1 stone_93
+  - first:
+      213: 3567502558551465026
+    second: level 1 stone_94
+  - first:
+      213: 3822854874507144533
+    second: level 1 stone_95
+  - first:
+      213: -3628608766586198104
+    second: level 1 stone_96
+  - first:
+      213: -5337726918983209640
+    second: level 1 stone_97
+  - first:
+      213: 920472666559726681
+    second: level 1 stone_98
+  - first:
+      213: 6739456024307820806
+    second: level 1 stone_99
+  - first:
+      213: 8866381448722919587
+    second: level 1 stone_100
+  - first:
+      213: 4251103620036230074
+    second: level 1 stone_101
+  - first:
+      213: -8853439280558674206
+    second: level 1 stone_102
+  - first:
+      213: 1504880232822862718
+    second: level 1 stone_103
+  - first:
+      213: -6294839379268972170
+    second: level 1 stone_104
+  - first:
+      213: -6712274436758198644
+    second: level 1 stone_105
+  - first:
+      213: 800607305896833389
+    second: level 1 stone_106
+  - first:
+      213: -1788224272425887556
+    second: level 1 stone_107
+  - first:
+      213: -4381334212354605336
+    second: level 1 stone_108
+  - first:
+      213: 7608521704346212476
+    second: level 1 stone_109
+  - first:
+      213: 8823669485310942896
+    second: level 1 stone_110
+  - first:
+      213: -3250296001852486322
+    second: level 1 stone_111
+  - first:
+      213: -2628706115249891009
+    second: level 1 stone_112
+  - first:
+      213: 4165786810016219894
+    second: level 1 stone_113
+  - first:
+      213: 528928880133607759
+    second: level 1 stone_114
+  - first:
+      213: 4806215874510182676
+    second: level 1 stone_115
+  - first:
+      213: 8689288310771016860
+    second: level 1 stone_116
+  - first:
+      213: -6499949155808091763
+    second: level 1 stone_117
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: level 1 stone_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 452
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ffddea900cdeb00800000000000000
+      internalID: 859554251718655810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 452
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f3365ff55a7e460800000000000000
+      internalID: 7270961954970353477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 452
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d264f3e693db07a0800000000000000
+      internalID: -6409796999608769836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 452
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3415ff35d9b91d2a0800000000000000
+      internalID: -6714414469411286717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 452
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57812aad17447e530800000000000000
+      internalID: 3884148459420391541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 452
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a726025ba50350c0800000000000000
+      internalID: -4588317361986721881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 452
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8ee8526199df920800000000000000
+      internalID: 3025742845061294269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_7
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 452
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8221b4ad094d5daf0800000000000000
+      internalID: -372157675585465816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 452
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb93671a12535db0800000000000000
+      internalID: -4804406105459156024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_9
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 452
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ae7386ed03b9710800000000000000
+      internalID: 1701007016051862171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_10
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 452
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05461288a56e8f80800000000000000
+      internalID: -8102426905181534962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_11
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 452
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959b6d23e0d0f4f10800000000000000
+      internalID: 2256036292969544025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_12
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 436
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832c72d8f5a294960800000000000000
+      internalID: 7586641637160763960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 436
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35b989ba2478a870800000000000000
+      internalID: 8694326807489000766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_14
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 436
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578797c88bf425060800000000000000
+      internalID: 6940697629780703349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_15
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 436
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b90151cb9ed39b10800000000000000
+      internalID: 1987176621145131447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_16
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 436
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3658c25da6df29da0800000000000000
+      internalID: -5939406323263437469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 420
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007fb199df987fc40800000000000000
+      internalID: 5546053188418533120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_18
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 420
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a452dc2f30b8fe0800000000000000
+      internalID: -1185849735523251674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 420
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539b93fd1d5952990800000000000000
+      internalID: -7411352883142477515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_20
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 420
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568f6743c3a9c9a30800000000000000
+      internalID: 4223420133935609957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 420
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c657e1ce86dc2210800000000000000
+      internalID: 1309657500284835529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_22
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 420
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3abc9b4ffbde70d0800000000000000
+      internalID: -3423056777223292355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 420
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ecfb89613520860800000000000000
+      internalID: 7494644086415019584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_24
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 420
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4f73e44ef501d90800000000000000
+      internalID: -7129092775958022936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_25
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 388
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3807d92db7bca9880800000000000000
+      internalID: -8603340405462962045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 388
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712253a6eaad80720800000000000000
+      internalID: 2812738409933906455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_27
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 388
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55264c524aeefde30800000000000000
+      internalID: 4530602138933682773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 356
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81397b833df9192e0800000000000000
+      internalID: -2120738219976322280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 356
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c414a466042ebd0800000000000000
+      internalID: -2602446826590090083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_30
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 356
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4e165be4c7e3ec0800000000000000
+      internalID: -3585291575847951184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 356
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7b6a052229389e0800000000000000
+      internalID: -1620290764843599938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_32
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 356
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b180c6e11948930800000000000000
+      internalID: 4144597116935215948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 356
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b678b5b2cb70f56f0800000000000000
+      internalID: -693827312829102229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_34
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 356
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f75478ba4f63010800000000000000
+      internalID: 1168390170895286017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_35
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 356
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80dd0909577100fa0800000000000000
+      internalID: -5836639323368137464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 356
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bfe0a3b311ce110800000000000000
+      internalID: 1291426139223292787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 356
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215b2c2c15357f900800000000000000
+      internalID: 718134276213880082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_38
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 340
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d163c28d8858540800000000000000
+      internalID: 5009560622555602265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_39
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 340
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965e1c0a4ddebf980800000000000000
+      internalID: -8503941973873138327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_40
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 340
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53b8f38cd4a6b8c0800000000000000
+      internalID: -3983815553348750501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 340
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd46b669213879f0800000000000000
+      internalID: -470572107173573179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_42
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 340
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3389401a806739ec0800000000000000
+      internalID: -3561373100886681549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 340
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469144826d91ce6f0800000000000000
+      internalID: -654119438286317212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_44
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 340
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a0067f45e7b3630800000000000000
+      internalID: 3907856005066656390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_45
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 340
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf2312295af19650800000000000000
+      internalID: 6238042219615563717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_46
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 340
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01aef82ce5fa12250800000000000000
+      internalID: 5918204206867540496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 340
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc155840ae457780800000000000000
+      internalID: -8685949855998862081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_48
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 324
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714e33c1d248c2dd0800000000000000
+      internalID: -2509485563070651369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 324
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c9ce90f1204c250800000000000000
+      internalID: 5963894138879122515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_50
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 324
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f535b91325fb15bf0800000000000000
+      internalID: -337278137335590049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 324
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825b260fe4fbe0880800000000000000
+      internalID: -8642760289116048088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_52
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 324
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5269be48d83d4190800000000000000
+      internalID: -7976656863318416804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_53
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 324
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83d19f9506323f00800000000000000
+      internalID: 1094997057184322446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_54
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 324
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513ba6649f649c100800000000000000
+      internalID: 128712100798968597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_55
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 324
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b5a1fb039081a00800000000000000
+      internalID: 727341444789590880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_56
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 324
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a7bd039b249d840800000000000000
+      internalID: 5249300203833096739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_57
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 324
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd5051c647eff3d0800000000000000
+      internalID: -3170561321568543306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_58
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8227d879a0b335220800000000000000
+      internalID: 2473385537034875432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_59
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff4c57cb4883aad0800000000000000
+      internalID: -2692158293188784137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_60
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e6f8ce9497b5740800000000000000
+      internalID: 5141836757981949492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723b9402b157f0670800000000000000
+      internalID: 8507146980492423975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_62
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4807dba1b080140800000000000000
+      internalID: 4686007621754324206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b735d6320af411e0800000000000000
+      internalID: -2227881028224731207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_64
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491f098398efd4850800000000000000
+      internalID: 6363021713857376660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_65
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e321f4f8bb817b40800000000000000
+      internalID: 5436279851712586729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_66
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b770873166751030800000000000000
+      internalID: 3464805648246536119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_67
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ec33421c4d3f800800000000000000
+      internalID: 645093097645264525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_68
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a818abbf2c464ada0800000000000000
+      internalID: -5934507620357734006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_69
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0263cc4d15d649a10800000000000000
+      internalID: 1915275939769234976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_70
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b454d6da99b016f40800000000000000
+      internalID: 5719865756404761931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_71
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8434f9f9dedced4d0800000000000000
+      internalID: -3107820272370105528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_72
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce8d19d02fcd9850800000000000000
+      internalID: 6385487586669727435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_73
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9a71fd9a09c8320800000000000000
+      internalID: 2561581347333712363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_74
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0e344d51c58a160800000000000000
+      internalID: 7036975666591686874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_75
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df0441604ab32b20800000000000000
+      internalID: 3108532953488297936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_76
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a22c18c3eb6d080800000000000000
+      internalID: -9162927224754394575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6935e4272015ee4f0800000000000000
+      internalID: -797611013048478826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_78
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 276
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4c9088928620cf0800000000000000
+      internalID: -287552898613001023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_79
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 276
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a87f17f6042e030800000000000000
+      internalID: 3522448705954744985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_80
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 276
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e093536cc69886690800000000000000
+      internalID: -7608680470167602930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_81
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 276
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1784a8f5102f180800000000000000
+      internalID: -9083195988599344656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_82
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 276
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55698957107dfd7a0800000000000000
+      internalID: -6350120548301236651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 276
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44019eabdadb82d70800000000000000
+      internalID: 9018666807672246340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_84
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 276
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe7e9975cda89f10800000000000000
+      internalID: 2276760675296378612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_85
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 276
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd15d61d028a2490800000000000000
+      internalID: -7770255214345118284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_86
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 276
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e20b6c8c10ea720800000000000000
+      internalID: 2859224775265365583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_87
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 276
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ed809bc5cb6fec0800000000000000
+      internalID: -3533429751198196109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_88
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 260
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1925e7b2d82163b10800000000000000
+      internalID: 1960775085295817361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_89
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 260
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6865e4a8b9c420740800000000000000
+      internalID: 5116736357570336390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_90
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 260
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3573225a778530d10800000000000000
+      internalID: 2090611922924877651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_91
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 260
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23274c657d9bc76e0800000000000000
+      internalID: -1838390213349182926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_92
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 260
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6e6485d94bd8ee0800000000000000
+      internalID: -1257150133082593605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_93
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 260
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10adc605363fe1b0800000000000000
+      internalID: -5625217808187154404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_94
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 260
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cd1c1fca0528130800000000000000
+      internalID: 3567502558551465026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_95
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 260
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d6ed601428d0530800000000000000
+      internalID: 3822854874507144533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_96
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 260
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7e2ce4d8794adc0800000000000000
+      internalID: -3628608766586198104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_97
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 260
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d27fdc5a59ce5b0800000000000000
+      internalID: -5337726918983209640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_98
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 244
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954cfbb630d26cc00800000000000000
+      internalID: 920472666559726681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_99
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 244
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609eb340c8b578d50800000000000000
+      internalID: 6739456024307820806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_100
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 244
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a03e3693f6bb0b70800000000000000
+      internalID: 8866381448722919587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_101
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 244
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbf2a71834fefa30800000000000000
+      internalID: 4251103620036230074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_102
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 244
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee6fc1c1e3422580800000000000000
+      internalID: -8853439280558674206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_103
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 244
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73f9ea399862e410800000000000000
+      internalID: 1504880232822862718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_104
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 244
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6715880afec34a8a0800000000000000
+      internalID: -6294839379268972170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_105
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 244
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86a71286f539d2a0800000000000000
+      internalID: -6712274436758198644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_106
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 244
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6130985a145c1b00800000000000000
+      internalID: 800607305896833389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_107
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 244
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8d257af73fe27e0800000000000000
+      internalID: -1788224272425887556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_108
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 228
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee76564fbf5233c0800000000000000
+      internalID: -4381334212354605336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_109
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 228
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78d76dad26e69960800000000000000
+      internalID: 7608521704346212476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_110
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 228
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be9967a5a8f37a70800000000000000
+      internalID: 8823669485310942896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_111
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 228
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4dc5b2d101a4e2d0800000000000000
+      internalID: -3250296001852486322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_112
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 228
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3912a537b5f48bd0800000000000000
+      internalID: -2628706115249891009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_113
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 228
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2460d4809dfc930800000000000000
+      internalID: 4165786810016219894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_114
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 228
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f411fcb9302275700800000000000000
+      internalID: 528928880133607759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_115
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 228
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419d50a9fdb13b240800000000000000
+      internalID: 4806215874510182676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_116
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 228
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94e57a4ead869870800000000000000
+      internalID: 8689288310771016860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level 1 stone_117
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 228
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8165f55eaa8bc5a0800000000000000
+      internalID: -6499949155808091763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
