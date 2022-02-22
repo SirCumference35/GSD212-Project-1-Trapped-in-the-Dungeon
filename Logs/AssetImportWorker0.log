@@ -1,6 +1,10 @@
 Using pre-set license
 Built from '2020.3/release' branch; Version is '2020.3.7f1 (dd97f2c94397) revision 14522354'; Using compiler version '192528614'; Build Type 'Release'
+<<<<<<< HEAD
 OS: 'Windows 10 Enterprise; OS build 19041.1415; Version 2004; 64bit' Language: 'en' Physical Memory: 32683 MB
+=======
+OS: 'Windows 10 Enterprise; OS build 19041.1415; Version 2004; 64bit' Language: 'en' Physical Memory: 16314 MB
+>>>>>>> main
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
@@ -11,30 +15,46 @@ C:\Program Files\Unity\Hub\Editor\2020.3.7f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-F:/GDS212/GSD212-Project-1-Trapped-in-the-Dungeon
+C:/Users/nbrown51/Desktop/GSD212-Project-1-Trapped-in-the-Dungeon
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
+<<<<<<< HEAD
 58944
 Successfully changed project path to: F:/GDS212/GSD212-Project-1-Trapped-in-the-Dungeon
 F:/GDS212/GSD212-Project-1-Trapped-in-the-Dungeon
 Using Asset Import Pipeline V2.
 Refreshing native plugins compatible for Editor in 38.33 ms, found 1 plugins.
+=======
+55393
+Successfully changed project path to: C:/Users/nbrown51/Desktop/GSD212-Project-1-Trapped-in-the-Dungeon
+C:/Users/nbrown51/Desktop/GSD212-Project-1-Trapped-in-the-Dungeon
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 59.21 ms, found 1 plugins.
+>>>>>>> main
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.7f1 (dd97f2c94397)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path F:/GDS212/GSD212-Project-1-Trapped-in-the-Dungeon/Assets
+[Subsystems] Discovering subsystems at path C:/Users/nbrown51/Desktop/GSD212-Project-1-Trapped-in-the-Dungeon/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
+<<<<<<< HEAD
     Renderer: NVIDIA GeForce GTX 980 (ID=0x13c0)
     Vendor:   
     VRAM:     4053 MB
     Driver:   30.0.14.7111
+=======
+    Renderer: Radeon RX 570 Series (ID=0x67df)
+    Vendor:   
+    VRAM:     4075 MB
+    Driver:   27.20.1034.6
+>>>>>>> main
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/MonoBleedingEdge/etc'
+<<<<<<< HEAD
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56796
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
@@ -66,11 +86,45 @@ System memory in use after: 85.1 MB.
 
 Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2265.
 Total: 3.741400 ms (FindLiveObjects: 0.329900 ms CreateObjectMapping: 0.123300 ms MarkObjects: 3.154100 ms  DeleteObjects: 0.131900 ms)
+=======
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56640
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002175 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 42.08 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.673 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001712 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 40.75 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.039 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
+Refreshing native plugins compatible for Editor in 0.79 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1817 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.9 MB.
+System memory in use after: 85.0 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2264.
+Total: 7.690700 ms (FindLiveObjects: 0.910600 ms CreateObjectMapping: 3.407300 ms MarkObjects: 3.194400 ms  DeleteObjects: 0.171700 ms)
+>>>>>>> main
 
 ========================================================================
 Received Import Request.
   path: Assets/player.prefab
   artifactKey: Guid(7a0307e48f36b7d459f7e9b95cd70669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+<<<<<<< HEAD
 Start importing Assets/player.prefab using Guid(7a0307e48f36b7d459f7e9b95cd70669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aee2a9b79bffbe96e9b46ac90ca91d3b') in 0.162732 seconds
   Import took 0.165802 seconds .
 
@@ -205,5 +259,2685 @@ Received Import Request.
   artifactKey: Guid(cfb02e69d92b47a4985586227bcc8d3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scenes/level  1.unity using Guid(cfb02e69d92b47a4985586227bcc8d3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4984ab5940c515d9cb35c9fcc34413c') in 0.026266 seconds
   Import took 0.029660 seconds .
+=======
+Start importing Assets/player.prefab using Guid(7a0307e48f36b7d459f7e9b95cd70669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e645a4ffa25a1518389a61d658c45876') in 0.198800 seconds
+  Import took 0.207591 seconds .
 
-AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+========================================================================
+Received Import Request.
+  Time since last request: 0.000468 seconds.
+  path: Assets/corner .prefab
+  artifactKey: Guid(6259510c1743e3645947098bd22363ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/corner .prefab using Guid(6259510c1743e3645947098bd22363ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6f1c4136a87b1324e646bbfe2e445d7') in 0.013683 seconds
+  Import took 0.025752 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000552 seconds.
+  path: Assets/Bounce.physicsMaterial2D
+  artifactKey: Guid(115360b0fab6823488d145eafce9ac8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bounce.physicsMaterial2D using Guid(115360b0fab6823488d145eafce9ac8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a32e159f1223d5e1af89ef19fa18ac0') in 0.009910 seconds
+  Import took 0.016832 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000439 seconds.
+  path: Assets/level 1 stone.png
+  artifactKey: Guid(3df2c3674710d3b4fb7db5d7cf24966d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/level 1 stone.png using Guid(3df2c3674710d3b4fb7db5d7cf24966d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77e100f31b305e96dc1ddc84ed4aad31') in 0.136940 seconds
+  Import took 0.143464 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000445 seconds.
+  path: Assets/Sprite-0004.png
+  artifactKey: Guid(8adcf49f27b18f7478f81d5ff96772f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite-0004.png using Guid(8adcf49f27b18f7478f81d5ff96772f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c1acb11bdbacee65035a1c6c67bb9e1') in 0.033340 seconds
+  Import took 0.039269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/bomb.prefab
+  artifactKey: Guid(ef1bb0a38cd5b5b4eb1db0748e7058f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/bomb.prefab using Guid(ef1bb0a38cd5b5b4eb1db0748e7058f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2a8ddcdab27a444c581aaf2a46e36dd') in 0.015612 seconds
+  Import took 0.020140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/Sprite-0006.png
+  artifactKey: Guid(7a262bd5387c1a14580ce2c16d9d738e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite-0006.png using Guid(7a262bd5387c1a14580ce2c16d9d738e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d3baf35754c4ae62ae11cd954587a82') in 0.017756 seconds
+  Import took 0.024659 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 99.098390 seconds.
+  path: Assets/stone pallet
+  artifactKey: Guid(d5d3f87c27d6a7a4087dc97cb5dc46f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet using Guid(d5d3f87c27d6a7a4087dc97cb5dc46f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e76a9f8c9ba8103924aff728fef258f') in 0.004992 seconds
+  Import took 0.011087 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.079071 seconds.
+  path: Assets/stone pallet/level 1 stone_0.asset
+  artifactKey: Guid(d4e33f055b51f564d9867b88d32d4710) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_0.asset using Guid(d4e33f055b51f564d9867b88d32d4710) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de351a052e8c08a999002c10e16f6430') in 0.012083 seconds
+  Import took 0.018220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/stone pallet/level 1 stone_2.asset
+  artifactKey: Guid(30db7a7f1f1477c4296ed96b7d0b0b9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_2.asset using Guid(30db7a7f1f1477c4296ed96b7d0b0b9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11c69838c0e77298d17db34f2a64e582') in 0.005248 seconds
+  Import took 0.009838 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/stone pallet/level 1 stone_12.asset
+  artifactKey: Guid(6fb43d2d6d32eba4bac778d67ab2e88a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_12.asset using Guid(6fb43d2d6d32eba4bac778d67ab2e88a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee39a2f31a1a91e01966e3ab4a4da897') in 0.006799 seconds
+  Import took 0.011548 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/stone pallet/level 1 stone_31.asset
+  artifactKey: Guid(c64a4d39dcfca094d8162d8d2a824c2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_31.asset using Guid(c64a4d39dcfca094d8162d8d2a824c2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30a8d95ace3e4f1140f57f1e9bfb7554') in 0.006705 seconds
+  Import took 0.013774 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/stone pallet/level 1 stone_41.asset
+  artifactKey: Guid(729c5ad5883b21d41aab3ebd89724cdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_41.asset using Guid(729c5ad5883b21d41aab3ebd89724cdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd031e7fce2e3149634af391d81877592') in 0.004976 seconds
+  Import took 0.008797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/stone pallet/level 1 stone_10.asset
+  artifactKey: Guid(5e7c8798ee5f68e48825b0f705280eb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_10.asset using Guid(5e7c8798ee5f68e48825b0f705280eb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0910d44b2a5b92a152a6271228dd624') in 0.006641 seconds
+  Import took 0.010996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/stone pallet/level 1 stone_62.asset
+  artifactKey: Guid(7b7bdb39adbfebf458a59a949b07f46b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_62.asset using Guid(7b7bdb39adbfebf458a59a949b07f46b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7932a2f8772419bcced1fc0dc2c468b1') in 0.006808 seconds
+  Import took 0.012678 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/stone pallet/level 1 stone_60.asset
+  artifactKey: Guid(cb4f3446e50d1604186769982594aa11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_60.asset using Guid(cb4f3446e50d1604186769982594aa11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dde332adb39e4e1b505ef7aa570bcba1') in 0.004617 seconds
+  Import took 0.007807 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/stone pallet/level 1 stone_80.asset
+  artifactKey: Guid(bc37048bbe754e64c97af2f9f1be39be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_80.asset using Guid(bc37048bbe754e64c97af2f9f1be39be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6aed6682ff236163c34fb1c1d50862c') in 0.009618 seconds
+  Import took 0.014975 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000484 seconds.
+  path: Assets/stone pallet/level 1 stone_87.asset
+  artifactKey: Guid(d39fa432b5a07c04bae72ccf4d809dc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_87.asset using Guid(d39fa432b5a07c04bae72ccf4d809dc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7ae80cc8e683fa127102fc377dd7c0d') in 0.007579 seconds
+  Import took 0.012222 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/stone pallet/level 1 stone_114.asset
+  artifactKey: Guid(2d7a4b69daaf16f4aa962be89b5236d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_114.asset using Guid(2d7a4b69daaf16f4aa962be89b5236d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67ed5332f28e06e903e58865fde84269') in 0.004708 seconds
+  Import took 0.008856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000370 seconds.
+  path: Assets/stone pallet/level 1 stone_88.asset
+  artifactKey: Guid(065d45ab2f5a0604788ca698b8fdda9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_88.asset using Guid(065d45ab2f5a0604788ca698b8fdda9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be15ec43872a2061eea0a55921ce6db4') in 0.007281 seconds
+  Import took 0.014606 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000366 seconds.
+  path: Assets/stone pallet/level 1 stone_91.asset
+  artifactKey: Guid(f0f6e701f0daa4649b10fa1febf8596f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_91.asset using Guid(f0f6e701f0daa4649b10fa1febf8596f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e07680d473c750837de77ea9adf0523a') in 0.006045 seconds
+  Import took 0.010925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/stone pallet/level 1 stone_48.asset
+  artifactKey: Guid(d75d7df0b5f3fbf448d885d3bcfb2227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_48.asset using Guid(d75d7df0b5f3fbf448d885d3bcfb2227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9a0474dd86f195b27c040ae237029c6') in 0.008115 seconds
+  Import took 0.013809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000427 seconds.
+  path: Assets/stone pallet/level 1 stone_27.asset
+  artifactKey: Guid(7064e0e80c472a44c87482588703c3d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_27.asset using Guid(7064e0e80c472a44c87482588703c3d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05e1f8234d4a5692c59b20ad8153c486') in 0.009386 seconds
+  Import took 0.016321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000416 seconds.
+  path: Assets/stone pallet/level 1 stone_18.asset
+  artifactKey: Guid(9e60a80b1bcb05d4a94eedcec8a0b2d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_18.asset using Guid(9e60a80b1bcb05d4a94eedcec8a0b2d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88ab9f5e32a1ce80eca6b38c9c296b97') in 0.009109 seconds
+  Import took 0.015347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/stone pallet/level 1 stone_98.asset
+  artifactKey: Guid(3983e75dc4d9dd540b1c377b2cd9696d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_98.asset using Guid(3983e75dc4d9dd540b1c377b2cd9696d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c350996620b2ad8b6c2007b879724d6') in 0.008147 seconds
+  Import took 0.014072 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/stone pallet/level 1 stone_58.asset
+  artifactKey: Guid(9a6a5749886e78849acd8e10b62d956f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_58.asset using Guid(9a6a5749886e78849acd8e10b62d956f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ef3b871a45d7954608699949ceb4361') in 0.005520 seconds
+  Import took 0.011847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000566 seconds.
+  path: Assets/stone pallet/level 1 stone_71.asset
+  artifactKey: Guid(c7ca485f7ad62334f8044d9348cd13ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_71.asset using Guid(c7ca485f7ad62334f8044d9348cd13ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b91a03601507131c4a7cec64579662c1') in 0.009024 seconds
+  Import took 0.015067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000383 seconds.
+  path: Assets/stone pallet/level 1 stone_73.asset
+  artifactKey: Guid(12ce6b25f87d1c045b8d35340d273b65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_73.asset using Guid(12ce6b25f87d1c045b8d35340d273b65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d61d7b8e4bb040e81b010b45f8d186b') in 0.006174 seconds
+  Import took 0.010100 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/stone pallet/level 1 stone_55.asset
+  artifactKey: Guid(598f00b31f9d96544a9fc894cdcf85b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_55.asset using Guid(598f00b31f9d96544a9fc894cdcf85b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d416f9638a31ed213d933a6f5759278') in 0.011187 seconds
+  Import took 0.015296 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000412 seconds.
+  path: Assets/stone pallet/level 1 stone_108.asset
+  artifactKey: Guid(f5cb5c741853f164cac81d771f6d1f5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_108.asset using Guid(f5cb5c741853f164cac81d771f6d1f5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97e1536a36782c160b40f08ce774ad37') in 0.006881 seconds
+  Import took 0.012609 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/stone pallet/level 1 stone_64.asset
+  artifactKey: Guid(3cd04301b36146447b40a74870a87b62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_64.asset using Guid(3cd04301b36146447b40a74870a87b62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af8760895839ad351624f0dc66a9cf80') in 0.005937 seconds
+  Import took 0.010778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000441 seconds.
+  path: Assets/stone pallet/level 1 stone_56.asset
+  artifactKey: Guid(4bfdca5f592e2f84ea3451943e72ced0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_56.asset using Guid(4bfdca5f592e2f84ea3451943e72ced0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a93d465d80cd547283109a8673f251b') in 0.007933 seconds
+  Import took 0.014566 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/stone pallet/level 1 stone_116.asset
+  artifactKey: Guid(c85c1c848345f9c479e718ff24c90540) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_116.asset using Guid(c85c1c848345f9c479e718ff24c90540) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c70daa03c49cda92c75c6637d964a1b') in 0.007095 seconds
+  Import took 0.012223 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/stone pallet/level 1 stone_85.asset
+  artifactKey: Guid(46e9b57b03a14ae4285a1c7e7bec3798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_85.asset using Guid(46e9b57b03a14ae4285a1c7e7bec3798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00211e79424c4e8333e0108edb3ef09d') in 0.008994 seconds
+  Import took 0.016141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000532 seconds.
+  path: Assets/stone pallet/level 1 stone_94.asset
+  artifactKey: Guid(5d3bc8d2c9cfe6a44854ae1da1be69ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_94.asset using Guid(5d3bc8d2c9cfe6a44854ae1da1be69ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cd389d68bcb94e04d052cdbabb4eb49') in 0.008439 seconds
+  Import took 0.014451 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/stone pallet/level 1 stone_26.asset
+  artifactKey: Guid(45a6bb9e43e74874b9b8fa3d69f22257) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_26.asset using Guid(45a6bb9e43e74874b9b8fa3d69f22257) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec984eab8e5255d15beea9b4875a4b60') in 0.007820 seconds
+  Import took 0.014346 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000392 seconds.
+  path: Assets/stone pallet/level 1 stone_115.asset
+  artifactKey: Guid(f5460a0f7bd699d4fb689a219d2c98b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_115.asset using Guid(f5460a0f7bd699d4fb689a219d2c98b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c03013c111471ef90809f83aa650be18') in 0.008185 seconds
+  Import took 0.014640 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/stone pallet/level 1 stone_36.asset
+  artifactKey: Guid(af10b04fc76cdd64dbb70c82bbc522e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_36.asset using Guid(af10b04fc76cdd64dbb70c82bbc522e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cd4dff6650ea0d6a794406ac8aff39c') in 0.009033 seconds
+  Import took 0.014430 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/stone pallet/level 1 stone_84.asset
+  artifactKey: Guid(f39d92daba3a1a742978570499abdf68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_84.asset using Guid(f39d92daba3a1a742978570499abdf68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cc918c50c5b1c30beff6a17f34a1801') in 0.008894 seconds
+  Import took 0.013823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/stone pallet/level 1 stone_8.asset
+  artifactKey: Guid(38d3f2e38a27cbb4f8ce4df8b2436a68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_8.asset using Guid(38d3f2e38a27cbb4f8ce4df8b2436a68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2333be8b3c23c96e6bcab6874eceae3e') in 0.004977 seconds
+  Import took 0.009739 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000439 seconds.
+  path: Assets/stone pallet/level 1 stone_34.asset
+  artifactKey: Guid(a1639ff91e71a8945b107d35e01e7899) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_34.asset using Guid(a1639ff91e71a8945b107d35e01e7899) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '523d41d792954d0f004fbd4a811eb80e') in 0.005894 seconds
+  Import took 0.011217 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000488 seconds.
+  path: Assets/stone pallet/level 1 stone_63.asset
+  artifactKey: Guid(7b4dd89ae1b371a44af43225ec3e0a76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_63.asset using Guid(7b4dd89ae1b371a44af43225ec3e0a76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02420bf2868384c7426e33ff5f748594') in 0.006579 seconds
+  Import took 0.010528 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/stone pallet/level 1 stone_67.asset
+  artifactKey: Guid(e525cc918a8909e4da9b2c782ebe051f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_67.asset using Guid(e525cc918a8909e4da9b2c782ebe051f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5b531479d2c563b2cb9dadaf7f2808b') in 0.003964 seconds
+  Import took 0.007325 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000401 seconds.
+  path: Assets/stone pallet/level 1 stone_38.asset
+  artifactKey: Guid(5d1d10e347bf05e4c80bcdeba2d4a57e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_38.asset using Guid(5d1d10e347bf05e4c80bcdeba2d4a57e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce80aa703e301f5685d333f1ed7d0754') in 0.007484 seconds
+  Import took 0.012667 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/stone pallet/level 1 stone_29.asset
+  artifactKey: Guid(0aee0e6d0158409459006d0d3d140e05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_29.asset using Guid(0aee0e6d0158409459006d0d3d140e05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8b531a2470acf8cf52dd813457f9735') in 0.005542 seconds
+  Import took 0.009208 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/stone pallet/level 1 stone_59.asset
+  artifactKey: Guid(f8496690eb426a148b9685b4cb24aed4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_59.asset using Guid(f8496690eb426a148b9685b4cb24aed4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f43fa1397034781243e32d3154cdf58') in 0.004106 seconds
+  Import took 0.007111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/stone pallet/level 1 stone_113.asset
+  artifactKey: Guid(6d375554d9f8cb64280cf6ba6698cb87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_113.asset using Guid(6d375554d9f8cb64280cf6ba6698cb87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2013840fdd17d7ddff5ef1a30ac4b680') in 0.008189 seconds
+  Import took 0.011129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/stone pallet/level 1 stone_79.asset
+  artifactKey: Guid(ff47519dd04a01c4b8197cc5943dbf5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_79.asset using Guid(ff47519dd04a01c4b8197cc5943dbf5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29a30b092ee2dbc4978b35f4490480cf') in 0.005608 seconds
+  Import took 0.009373 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/stone pallet/stone tiles.prefab
+  artifactKey: Guid(ac560c8792ef35347872248171baecc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/stone tiles.prefab using Guid(ac560c8792ef35347872248171baecc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '971ae6720507a57b20668264e1c9ff2e') in 0.007609 seconds
+  Import took 0.011466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/stone pallet/level 1 stone_57.asset
+  artifactKey: Guid(60c64fda161ad06419f6599b284aefcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_57.asset using Guid(60c64fda161ad06419f6599b284aefcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcbe87d86a24494b5f5b657152e0e9e1') in 0.005198 seconds
+  Import took 0.009073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/stone pallet/level 1 stone_89.asset
+  artifactKey: Guid(19d24bbea95b9114a99fb9e627196ee3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_89.asset using Guid(19d24bbea95b9114a99fb9e627196ee3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aff9f54dbebc7960d69bdd97ccc9b60c') in 0.004417 seconds
+  Import took 0.007855 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/stone pallet/level 1 stone_110.asset
+  artifactKey: Guid(d7d9af5dda393a347ac490ee1c0354d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_110.asset using Guid(d7d9af5dda393a347ac490ee1c0354d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b2325ab29f44fd6a3d84bad305f72d1') in 0.006690 seconds
+  Import took 0.010416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/stone pallet/level 1 stone_111.asset
+  artifactKey: Guid(ff8ba9a13c7c05445b72c9128c0faea2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_111.asset using Guid(ff8ba9a13c7c05445b72c9128c0faea2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4d583836b13a8af8aff5c60bf5ac7e5') in 0.006984 seconds
+  Import took 0.012041 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000374 seconds.
+  path: Assets/stone pallet/level 1 stone_21.asset
+  artifactKey: Guid(f5d7218ed226bef4a9f4bc6d3aa256e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_21.asset using Guid(f5d7218ed226bef4a9f4bc6d3aa256e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba1ca5a9e19b4b688b3598d7198ba8e1') in 0.013901 seconds
+  Import took 0.020621 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/stone pallet/level 1 stone_112.asset
+  artifactKey: Guid(5249d5aac0d7d704db2415f0fe04ceaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_112.asset using Guid(5249d5aac0d7d704db2415f0fe04ceaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10442996421661962e1827e87db5ba87') in 0.007295 seconds
+  Import took 0.014324 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/stone pallet/level 1 stone_52.asset
+  artifactKey: Guid(2e045b07a6d0c7740a58cd7c51509580) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_52.asset using Guid(2e045b07a6d0c7740a58cd7c51509580) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6657319f44e43deee3d966b45d54b9c1') in 0.004114 seconds
+  Import took 0.007107 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/stone pallet/level 1 stone_37.asset
+  artifactKey: Guid(67af166a7bbac9e4ea0c3ac0439ba9fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_37.asset using Guid(67af166a7bbac9e4ea0c3ac0439ba9fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd65752350625d4c3919c36130be7b05') in 0.006741 seconds
+  Import took 0.010348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/stone pallet/level 1 stone_45.asset
+  artifactKey: Guid(d02c4b82a8e813e4ebd1381f159d5eb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_45.asset using Guid(d02c4b82a8e813e4ebd1381f159d5eb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '119f3ef9a4154a2f6218f98baa5db43c') in 0.006550 seconds
+  Import took 0.010894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/stone pallet/level 1 stone_22.asset
+  artifactKey: Guid(b9bdd30b3b9340741ac4c272d3f343c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_22.asset using Guid(b9bdd30b3b9340741ac4c272d3f343c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc307bb244189c1c3752a5391ddf2250') in 0.014113 seconds
+  Import took 0.018559 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/stone pallet/level 1 stone_117.asset
+  artifactKey: Guid(03ca8bafe08fa3e48be25ae692a5a349) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_117.asset using Guid(03ca8bafe08fa3e48be25ae692a5a349) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdeb74b9ee19434d1dfa2613cba5ac19') in 0.008625 seconds
+  Import took 0.013419 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/stone pallet/level 1 stone_102.asset
+  artifactKey: Guid(e673332e904eedd42b354c312ccfb662) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_102.asset using Guid(e673332e904eedd42b354c312ccfb662) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c62e6e286c310e131f3405442a2cbfe') in 0.006259 seconds
+  Import took 0.010918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/stone pallet/level 1 stone_54.asset
+  artifactKey: Guid(3c47efcc4888d734b894138502fba9c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_54.asset using Guid(3c47efcc4888d734b894138502fba9c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '321dbb0ea2a2bc52585e0d2de7b0028d') in 0.008294 seconds
+  Import took 0.013408 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/stone pallet/level 1 stone_104.asset
+  artifactKey: Guid(9c03cc3b707db694fa3467c7bf428925) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_104.asset using Guid(9c03cc3b707db694fa3467c7bf428925) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f439a5fc46105292b17395dfe8fb4ee') in 0.007054 seconds
+  Import took 0.012828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000411 seconds.
+  path: Assets/stone pallet/level 1 stone_19.asset
+  artifactKey: Guid(bbf46ec5b57ac3d418f534992a0239e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_19.asset using Guid(bbf46ec5b57ac3d418f534992a0239e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16b779a123d066251a4dfb718f95ff6d') in 0.007490 seconds
+  Import took 0.013708 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000494 seconds.
+  path: Assets/stone pallet/level 1 stone_69.asset
+  artifactKey: Guid(df8d72c9bf289874d905c38c20e97475) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_69.asset using Guid(df8d72c9bf289874d905c38c20e97475) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f466617a49c86fef33d9ff8eb51e7d46') in 0.006634 seconds
+  Import took 0.011606 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/stone pallet/level 1 stone_83.asset
+  artifactKey: Guid(3c3c83d5db8fca94c84c742a6893b326) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_83.asset using Guid(3c3c83d5db8fca94c84c742a6893b326) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f34812c87fb3316c7392bd6a010c68a') in 0.004944 seconds
+  Import took 0.008934 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/stone pallet/level 1 stone_30.asset
+  artifactKey: Guid(4fadbdf9e1555a1428c9a46d0fb3197b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_30.asset using Guid(4fadbdf9e1555a1428c9a46d0fb3197b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b43d16dc9f8917ee53e9d78fcf690cc7') in 0.007469 seconds
+  Import took 0.014283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000514 seconds.
+  path: Assets/stone pallet/level 1 stone_101.asset
+  artifactKey: Guid(6b24eeef25cc6884da6a6ae079ac1a17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_101.asset using Guid(6b24eeef25cc6884da6a6ae079ac1a17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '025a554a24da009236c63c5ff4899892') in 0.011234 seconds
+  Import took 0.018723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000498 seconds.
+  path: Assets/stone pallet/level 1 stone_92.asset
+  artifactKey: Guid(59dc9bdb33f027b49a8bea4be02f448d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_92.asset using Guid(59dc9bdb33f027b49a8bea4be02f448d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fa1e7094f06b6d513eb9fc660e4122c') in 0.007625 seconds
+  Import took 0.016086 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000741 seconds.
+  path: Assets/stone pallet/level 1 stone_99.asset
+  artifactKey: Guid(6240cde48a0b56d40ae018cf789ccd9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_99.asset using Guid(6240cde48a0b56d40ae018cf789ccd9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b0992d1971cb95c17739f5830a263b0') in 0.007285 seconds
+  Import took 0.015644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/stone pallet/level 1 stone_74.asset
+  artifactKey: Guid(98e2798c4da242d43aec674b4d0f48c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_74.asset using Guid(98e2798c4da242d43aec674b4d0f48c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9b3d99f046f7996fe6771985a4f11ed') in 0.007007 seconds
+  Import took 0.013561 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000525 seconds.
+  path: Assets/stone pallet/level 1 stone_78.asset
+  artifactKey: Guid(c0df2b7cb71671545a25690abd76fd17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_78.asset using Guid(c0df2b7cb71671545a25690abd76fd17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4234048d88c438f2ae931afde5223a7e') in 0.007843 seconds
+  Import took 0.014064 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000541 seconds.
+  path: Assets/stone pallet/level 1 stone_33.asset
+  artifactKey: Guid(1bafe37ba79e89f4f90ea438b593eb81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_33.asset using Guid(1bafe37ba79e89f4f90ea438b593eb81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '296022605e743c186985c1c3742b44f9') in 0.007996 seconds
+  Import took 0.015932 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000494 seconds.
+  path: Assets/stone pallet/level 1 stone_107.asset
+  artifactKey: Guid(ebbcbf1006effd8408da6fcf48842b00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_107.asset using Guid(ebbcbf1006effd8408da6fcf48842b00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5275d825d7f276e0009ccbc74e6eb04e') in 0.011284 seconds
+  Import took 0.018048 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000402 seconds.
+  path: Assets/stone pallet/level 1 stone_61.asset
+  artifactKey: Guid(c2798bd2f31e79143b1acbe7751e20ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_61.asset using Guid(c2798bd2f31e79143b1acbe7751e20ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c94277c17eec3d2bd9f466bc67a2136') in 0.011819 seconds
+  Import took 0.016854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/stone pallet/level 1 stone_81.asset
+  artifactKey: Guid(798442e6ed22aea48a0e428c24b38d77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_81.asset using Guid(798442e6ed22aea48a0e428c24b38d77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a27bf4dbf906f3b772a1aef8185ea52a') in 0.013388 seconds
+  Import took 0.020141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000741 seconds.
+  path: Assets/stone pallet/level 1 stone_50.asset
+  artifactKey: Guid(0ba0cd107221a2841b8259ad373abd5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_50.asset using Guid(0ba0cd107221a2841b8259ad373abd5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3753432c5e82cb97ee6d527c094c9416') in 0.012484 seconds
+  Import took 0.024559 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000402 seconds.
+  path: Assets/stone pallet/level 1 stone_16.asset
+  artifactKey: Guid(388c65f3e22e1bd4dbbb7041fdcb779f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_16.asset using Guid(388c65f3e22e1bd4dbbb7041fdcb779f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea93a561e87d6c0f36a63e08cd20a6f9') in 0.012441 seconds
+  Import took 0.019350 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/stone pallet/level 1 stone_35.asset
+  artifactKey: Guid(1b23f3803c83a4e468c07c96dca81512) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_35.asset using Guid(1b23f3803c83a4e468c07c96dca81512) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c515faf6f3aac2379d91e47b5420f573') in 0.010906 seconds
+  Import took 0.017028 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/stone pallet/level 1 stone_96.asset
+  artifactKey: Guid(4dd57c97a4c58034a81eb81fb0094645) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_96.asset using Guid(4dd57c97a4c58034a81eb81fb0094645) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6100418ee15be36c1520cdaca863fe4') in 0.010881 seconds
+  Import took 0.017855 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000466 seconds.
+  path: Assets/stone pallet/level 1 stone_76.asset
+  artifactKey: Guid(ef53c6e60a93cd9488ea518d0377af7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_76.asset using Guid(ef53c6e60a93cd9488ea518d0377af7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f356569fb39e4851530dd9788de7419d') in 0.008613 seconds
+  Import took 0.017262 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000993 seconds.
+  path: Assets/stone pallet/level 1 stone_103.asset
+  artifactKey: Guid(618ac61f25ff987429524e93f4d29714) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_103.asset using Guid(618ac61f25ff987429524e93f4d29714) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd27cd132b3035cb2c04f6d19f44035bc') in 0.010718 seconds
+  Import took 0.019511 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000449 seconds.
+  path: Assets/stone pallet/level 1 stone_51.asset
+  artifactKey: Guid(232e94efebcecac46ae51b754f270979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_51.asset using Guid(232e94efebcecac46ae51b754f270979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffc6e0499c13fdebf66b903cab03ed79') in 0.004666 seconds
+  Import took 0.009923 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/stone pallet/level 1 stone_75.asset
+  artifactKey: Guid(ae0272a3edcae2c4b91d4d746bc3c86c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_75.asset using Guid(ae0272a3edcae2c4b91d4d746bc3c86c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac8a9dc3e91397f10a26a925dba66332') in 0.009244 seconds
+  Import took 0.014927 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000468 seconds.
+  path: Assets/stone pallet/level 1 stone_106.asset
+  artifactKey: Guid(134e33258847b834a87f3a55a4f23271) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_106.asset using Guid(134e33258847b834a87f3a55a4f23271) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eae22d90d1cb6c27066d82b5bbdc9d91') in 0.006375 seconds
+  Import took 0.013637 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/stone pallet/level 1 stone_32.asset
+  artifactKey: Guid(dee219524761b14448158cbe9153ed24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_32.asset using Guid(dee219524761b14448158cbe9153ed24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '582980288b8786be2327bec19a3bec96') in 0.008733 seconds
+  Import took 0.014604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000485 seconds.
+  path: Assets/stone pallet/level 1 stone_13.asset
+  artifactKey: Guid(4b54f41b916465349b076f6bf8114660) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_13.asset using Guid(4b54f41b916465349b076f6bf8114660) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1f9309f767c94f78134de97fe1ef2fb') in 0.006152 seconds
+  Import took 0.010260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/stone pallet/level 1 stone_15.asset
+  artifactKey: Guid(3918dc869372eb64ab7f6e04fc082a31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_15.asset using Guid(3918dc869372eb64ab7f6e04fc082a31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ee5e4facd7c93791091f1c3bfc9094b') in 0.005411 seconds
+  Import took 0.010519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/stone pallet/level 1 stone_5.asset
+  artifactKey: Guid(f5204e4e34633c241a70f77f3c4f5f18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_5.asset using Guid(f5204e4e34633c241a70f77f3c4f5f18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42b10c02bbc95010ff8450825f53a586') in 0.011644 seconds
+  Import took 0.017797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/stone pallet/level 1 stone_93.asset
+  artifactKey: Guid(2fa66e5b751646d4f9639be675a46423) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_93.asset using Guid(2fa66e5b751646d4f9639be675a46423) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f79adfc9bbe040923a60d84f55b4c75') in 0.006489 seconds
+  Import took 0.013337 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000437 seconds.
+  path: Assets/stone pallet/level 1 stone_77.asset
+  artifactKey: Guid(c03f99d54cbe5694badd80fd8e495b1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_77.asset using Guid(c03f99d54cbe5694badd80fd8e495b1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b434bae7c7a9b6b10837976b3710ff1') in 0.007192 seconds
+  Import took 0.013061 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000531 seconds.
+  path: Assets/stone pallet/level 1 stone_72.asset
+  artifactKey: Guid(69a6194183aecd546adc260031310789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_72.asset using Guid(69a6194183aecd546adc260031310789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23f8ae139aee4d5fcf3116ec4fded439') in 0.005775 seconds
+  Import took 0.011214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/stone pallet/level 1 stone_43.asset
+  artifactKey: Guid(11f631ec97e1aed4fb718ae4558dde4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_43.asset using Guid(11f631ec97e1aed4fb718ae4558dde4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '277cfeb16838e20a2e5ff1a71581cac6') in 0.004416 seconds
+  Import took 0.008737 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/stone pallet/level 1 stone_6.asset
+  artifactKey: Guid(3ecd5e828b4181543b59756d957bec43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_6.asset using Guid(3ecd5e828b4181543b59756d957bec43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e09b8106d52e9249fcbd7c03838ea9bc') in 0.006764 seconds
+  Import took 0.011020 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/stone pallet/level 1 stone_82.asset
+  artifactKey: Guid(d185c911c8920334385cb1b242a3c011) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_82.asset using Guid(d185c911c8920334385cb1b242a3c011) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '703b90ee95da4078fff6eb5658c4e454') in 0.006544 seconds
+  Import took 0.011784 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/stone pallet/level 1 stone_24.asset
+  artifactKey: Guid(dd569e2719c4a3b48ad5d07d656ad8e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_24.asset using Guid(dd569e2719c4a3b48ad5d07d656ad8e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a434af2282316b7e0abf6bc7289849cc') in 0.006287 seconds
+  Import took 0.011243 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/stone pallet/level 1 stone_47.asset
+  artifactKey: Guid(88a6858a3e02ff24a9f547a1e474052e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_47.asset using Guid(88a6858a3e02ff24a9f547a1e474052e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f520abafe76c589e863454e54c122439') in 0.006010 seconds
+  Import took 0.010725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/stone pallet/level 1 stone_49.asset
+  artifactKey: Guid(100675a72a041f64087d0af7d785f382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_49.asset using Guid(100675a72a041f64087d0af7d785f382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e622279e2660b28af603090eeef20bab') in 0.004627 seconds
+  Import took 0.008815 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000471 seconds.
+  path: Assets/stone pallet/level 1 stone_4.asset
+  artifactKey: Guid(787455115d1dbd14ca45b310ea328e86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_4.asset using Guid(787455115d1dbd14ca45b310ea328e86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8171f878737f87b19901af45cc8e1e2a') in 0.006179 seconds
+  Import took 0.011764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/stone pallet/level 1 stone_7.asset
+  artifactKey: Guid(1fbf9f1c29b339a4993b34b8e25a9986) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_7.asset using Guid(1fbf9f1c29b339a4993b34b8e25a9986) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '892184d0349beea631fab746f416bf8a') in 0.004723 seconds
+  Import took 0.008307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/stone pallet/level 1 stone_66.asset
+  artifactKey: Guid(1598ff8cb8c13b540a684b81c6e21668) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_66.asset using Guid(1598ff8cb8c13b540a684b81c6e21668) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8e1510b26322668d685627a6af713ab') in 0.005177 seconds
+  Import took 0.010295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/stone pallet/level 1 stone_105.asset
+  artifactKey: Guid(08d6fd7e77cb01c4c8fe3e733bff434e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_105.asset using Guid(08d6fd7e77cb01c4c8fe3e733bff434e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76b86f8d66f2222f6b1145a6efa995e2') in 0.005887 seconds
+  Import took 0.010728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/stone pallet/level 1 stone_53.asset
+  artifactKey: Guid(179d87e2ec98dd54782beeb350f9c8d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_53.asset using Guid(179d87e2ec98dd54782beeb350f9c8d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29dacb5b63809764089bba49db2c4d6c') in 0.005690 seconds
+  Import took 0.009379 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/stone pallet/level 1 stone_100.asset
+  artifactKey: Guid(82ec31de05a7ff94f80ba1b963630258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_100.asset using Guid(82ec31de05a7ff94f80ba1b963630258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '379426e08dc5f1d817464a0e91d1341c') in 0.004487 seconds
+  Import took 0.008103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000478 seconds.
+  path: Assets/stone pallet/level 1 stone_42.asset
+  artifactKey: Guid(25f0058cc9db04442ac345a5b0857839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_42.asset using Guid(25f0058cc9db04442ac345a5b0857839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7a8d9d01d117def17b515285935065a') in 0.006599 seconds
+  Import took 0.013323 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000447 seconds.
+  path: Assets/stone pallet/level 1 stone_95.asset
+  artifactKey: Guid(b1daac46603324640a10b4d00c6c6dc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_95.asset using Guid(b1daac46603324640a10b4d00c6c6dc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61e6c29a01de7b51637abf3e6e4da56e') in 0.005985 seconds
+  Import took 0.010945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/stone pallet/level 1 stone_20.asset
+  artifactKey: Guid(f65b0338b74bea042b9cbd273f5a58cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_20.asset using Guid(f65b0338b74bea042b9cbd273f5a58cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4aab3a8e862c2f27e0858f048d7bcce') in 0.004439 seconds
+  Import took 0.008243 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000488 seconds.
+  path: Assets/stone pallet/level 1 stone_1.asset
+  artifactKey: Guid(cf98b0bcf14d4a24faef3e40037e9963) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_1.asset using Guid(cf98b0bcf14d4a24faef3e40037e9963) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df08156b0b5135eff7ca6f90ab7a906b') in 0.006694 seconds
+  Import took 0.012381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/stone pallet/level 1 stone_3.asset
+  artifactKey: Guid(4ab82834258a5954194c4b04b134223a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_3.asset using Guid(4ab82834258a5954194c4b04b134223a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10a0c2543ee7207ffe9a5ba84c1ed97a') in 0.006155 seconds
+  Import took 0.010650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/stone pallet/level 1 stone_14.asset
+  artifactKey: Guid(d5a3b250149382d4e9bfa21c6f513a07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_14.asset using Guid(d5a3b250149382d4e9bfa21c6f513a07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a89ce68e5076b364c73dbe253c9e8d99') in 0.004087 seconds
+  Import took 0.007113 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/stone pallet/level 1 stone_28.asset
+  artifactKey: Guid(3860d31cfe986e4499901ba7186db960) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_28.asset using Guid(3860d31cfe986e4499901ba7186db960) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed498e1543b11cf0857797bf10f667ca') in 0.007593 seconds
+  Import took 0.013260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000443 seconds.
+  path: Assets/stone pallet/level 1 stone_44.asset
+  artifactKey: Guid(2d24f5f1599ca2445816909b29faa3bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_44.asset using Guid(2d24f5f1599ca2445816909b29faa3bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ef4a20f2ec03dd32991d8057edf32fd') in 0.005713 seconds
+  Import took 0.009692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/stone pallet/level 1 stone_65.asset
+  artifactKey: Guid(6ddd0a19363b86e479510c0301409a6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_65.asset using Guid(6ddd0a19363b86e479510c0301409a6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '995b60dcddf2233128b44130eddff25c') in 0.004116 seconds
+  Import took 0.007312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/stone pallet/level 1 stone_17.asset
+  artifactKey: Guid(90eaee85dc56f16409890b151661bfe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_17.asset using Guid(90eaee85dc56f16409890b151661bfe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87e99bfee1f279672205a48488f8cc61') in 0.007026 seconds
+  Import took 0.011194 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/stone pallet/level 1 stone_86.asset
+  artifactKey: Guid(6fe5e0e9b794a354ba36d7fd03475ed9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_86.asset using Guid(6fe5e0e9b794a354ba36d7fd03475ed9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1017d0c4060a3f06e9ee9b00a5cd06e3') in 0.006391 seconds
+  Import took 0.011815 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/stone pallet/level 1 stone_40.asset
+  artifactKey: Guid(1fe39426601062745bff963fdfacad60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_40.asset using Guid(1fe39426601062745bff963fdfacad60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57cfc7305462f468a5c314ff183dbba1') in 0.003842 seconds
+  Import took 0.006914 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/stone pallet/level 1 stone_90.asset
+  artifactKey: Guid(070a810309c388a498fb4e7652fd62b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_90.asset using Guid(070a810309c388a498fb4e7652fd62b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23e9572fcfd899055924b6cbebacd09e') in 0.005987 seconds
+  Import took 0.010249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/stone pallet/level 1 stone_39.asset
+  artifactKey: Guid(7082d7e8ceb0b6245809fd483d9eba7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_39.asset using Guid(7082d7e8ceb0b6245809fd483d9eba7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f286c4a0b50ac1839503a24a2b8a8f6') in 0.007497 seconds
+  Import took 0.011893 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/stone pallet/level 1 stone_11.asset
+  artifactKey: Guid(71541198e4478c4488db7007f6f1fabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_11.asset using Guid(71541198e4478c4488db7007f6f1fabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e77333bf1a85c5edb6dce603680b0710') in 0.003837 seconds
+  Import took 0.007222 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/stone pallet/level 1 stone_25.asset
+  artifactKey: Guid(f43f289a40f365546a7e098246d9d491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_25.asset using Guid(f43f289a40f365546a7e098246d9d491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40c37c1f746b8504ea0d3281bcfc329d') in 0.004079 seconds
+  Import took 0.008208 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000485 seconds.
+  path: Assets/stone pallet/level 1 stone_9.asset
+  artifactKey: Guid(4d83155a7a8a1c542b031860940c7f78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_9.asset using Guid(4d83155a7a8a1c542b031860940c7f78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10a17efe90e70026b87a40beee273c42') in 0.005875 seconds
+  Import took 0.011200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000530 seconds.
+  path: Assets/stone pallet/level 1 stone_23.asset
+  artifactKey: Guid(f3cc72c60f440804a96c719f3d22062d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_23.asset using Guid(f3cc72c60f440804a96c719f3d22062d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36b410113b9b05b25fd6610a1584b363') in 0.006149 seconds
+  Import took 0.010533 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/stone pallet/level 1 stone_70.asset
+  artifactKey: Guid(b169568481f815b4688aef534eefd49b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_70.asset using Guid(b169568481f815b4688aef534eefd49b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db7809ba900523e75e4c3ccb029c5ef1') in 0.004293 seconds
+  Import took 0.007894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000467 seconds.
+  path: Assets/stone pallet/level 1 stone_68.asset
+  artifactKey: Guid(1599d6df25607ea45a0a868b5aa05e1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_68.asset using Guid(1599d6df25607ea45a0a868b5aa05e1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e26989345f432438a4f829e2f4368378') in 0.006441 seconds
+  Import took 0.013047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/stone pallet/level 1 stone_97.asset
+  artifactKey: Guid(a9be64c797133894aa0272a7ad2bb913) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_97.asset using Guid(a9be64c797133894aa0272a7ad2bb913) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1f677af60a1c934bafe1fd69ad2148e') in 0.005935 seconds
+  Import took 0.010724 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/stone pallet/level 1 stone_46.asset
+  artifactKey: Guid(9ff1a3aa23e420f49ac955b8bebebd8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_46.asset using Guid(9ff1a3aa23e420f49ac955b8bebebd8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2300ffbe77703dcf18857e0bd58a48e3') in 0.005123 seconds
+  Import took 0.010431 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000406 seconds.
+  path: Assets/stone pallet/level 1 stone_109.asset
+  artifactKey: Guid(2f5232f7c6c329644b7170e2fe7af983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/stone pallet/level 1 stone_109.asset using Guid(2f5232f7c6c329644b7170e2fe7af983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa79941283cdfcdf662c100bbdbd890f') in 0.007910 seconds
+  Import took 0.014715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 189.771414 seconds.
+  path: Assets/Sprites
+  artifactKey: Guid(2b2a371ac03bea648ab423cff77ea108) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites using Guid(2b2a371ac03bea648ab423cff77ea108) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '182ce7de0841948cc5b36060b63836bf') in 0.005070 seconds
+  Import took 0.009767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.069083 seconds.
+  path: Assets/Sprites/bomb.prefab
+  artifactKey: Guid(ed6786098d80e5b4bad8143109bff8d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/bomb.prefab using Guid(ed6786098d80e5b4bad8143109bff8d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f58c3d633ac1d08bbe19ca12f6700af') in 0.017164 seconds
+  Import took 0.023261 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000492 seconds.
+  path: Assets/Sprites/Sprite-0001 sheet .png
+  artifactKey: Guid(3e0ee9a82c7f0664398b959f649b7530) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sprite-0001 sheet .png using Guid(3e0ee9a82c7f0664398b959f649b7530) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ed4d9b0822e3a6b8c4b645ee0bd8631') in 0.030824 seconds
+  Import took 0.035853 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000442 seconds.
+  path: Assets/Sprites/Sprite-0001.png
+  artifactKey: Guid(c689eb3942971a54ab9acb940ffcd11f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sprite-0001.png using Guid(c689eb3942971a54ab9acb940ffcd11f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd71163a555192a0a2f9165e78d2d2762') in 0.011494 seconds
+  Import took 0.016661 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000511 seconds.
+  path: Assets/Sprites/Sprite-0003.png
+  artifactKey: Guid(5470eccf1eeefba44a2f4294148f7ba2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sprite-0003.png using Guid(5470eccf1eeefba44a2f4294148f7ba2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8aee772f62a3472978a6d57bbff93004') in 0.022476 seconds
+  Import took 0.032073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000771 seconds.
+  path: Assets/Sprites/wooden wall project one.png
+  artifactKey: Guid(3cb63b53359a5064796a63ad31bcdd8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/wooden wall project one.png using Guid(3cb63b53359a5064796a63ad31bcdd8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f15de0bd930bc1dee039e7e6558f67dc') in 0.017111 seconds
+  Import took 0.023207 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Sprites/gem wall for progejt one.png
+  artifactKey: Guid(1bcb14f0df7660440abd4405278333fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/gem wall for progejt one.png using Guid(1bcb14f0df7660440abd4405278333fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee534c232ba15ab47ff2e9b059828891') in 0.016559 seconds
+  Import took 0.022351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000390 seconds.
+  path: Assets/Sprites/level 1 stone.png
+  artifactKey: Guid(9628ed773604d3042a9edbe72de54c7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/level 1 stone.png using Guid(9628ed773604d3042a9edbe72de54c7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3b28727c83b87b5207fddbc730ee0d6') in 0.054582 seconds
+  Import took 0.060712 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.677497 seconds.
+  path: Assets/tilemaps
+  artifactKey: Guid(47599f06810444c41a26a2a80d31c867) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps using Guid(47599f06810444c41a26a2a80d31c867) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef87e8f63ac3c83b0866bfc834201327') in 0.005721 seconds
+  Import took 0.011711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.050790 seconds.
+  path: Assets/tilemaps/level 1 stone.png
+  artifactKey: Guid(d67c32a4c13235a479502a542ee47558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/level 1 stone.png using Guid(d67c32a4c13235a479502a542ee47558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5baa088c50750c9f510a296002961b0') in 0.248983 seconds
+  Import took 0.254210 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/tilemaps/Sprite-0006.png
+  artifactKey: Guid(2995e3c83452fcf4aacd2087fe2dd6aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/Sprite-0006.png using Guid(2995e3c83452fcf4aacd2087fe2dd6aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2aade2aa55bde78f4e0a337afa13e0cd') in 0.014722 seconds
+  Import took 0.019707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2853.608963 seconds.
+  path: Assets/destroyObject.cs
+  artifactKey: Guid(9013e910f701eb44285f8ec87aa66580) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/destroyObject.cs using Guid(9013e910f701eb44285f8ec87aa66580) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6311444943476afb36c4fe26579b73a7') in 0.015308 seconds
+  Import took 0.020032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.445892 seconds.
+  path: Assets/Enemy.cs
+  artifactKey: Guid(d78a444920973aa4ebad2c0064019fe8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemy.cs using Guid(d78a444920973aa4ebad2c0064019fe8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '571c08b6e7fdd6e76d38fd19fe376d0f') in 0.004686 seconds
+  Import took 0.012538 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.283797 seconds.
+  path: Assets/Scripts/destroyObject.cs
+  artifactKey: Guid(becfc054d3ea49a4c8f9a87b197e6cf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/destroyObject.cs using Guid(becfc054d3ea49a4c8f9a87b197e6cf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a44e064e168d3a187154b27c6bf2872') in 0.004811 seconds
+  Import took 0.009447 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.449817 seconds.
+  path: Assets/Scripts/objectMove.cs
+  artifactKey: Guid(6659f77d2911225408a15d03bda810f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/objectMove.cs using Guid(6659f77d2911225408a15d03bda810f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f972f6810f8158e84794d805195f1bd') in 0.004293 seconds
+  Import took 0.011643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.528883 seconds.
+  path: Assets/Scripts/Player.cs
+  artifactKey: Guid(bd1971facd0533049b1dea6cb2baca2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Player.cs using Guid(bd1971facd0533049b1dea6cb2baca2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bb3f01939e902a9502eb44f9d080354') in 0.005742 seconds
+  Import took 0.010775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000904 seconds.
+  path: Assets/Scripts/Player.cs
+  artifactKey: Guid(bd1971facd0533049b1dea6cb2baca2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Player.cs using Guid(bd1971facd0533049b1dea6cb2baca2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bb3f01939e902a9502eb44f9d080354') in 0.005436 seconds
+  Import took 0.010556 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.288272 seconds.
+  path: Assets/Scripts/PlayerMovement.cs
+  artifactKey: Guid(553cb2363c3694b41ba72e77394d029e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerMovement.cs using Guid(553cb2363c3694b41ba72e77394d029e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e760dc866d5726eb47b57c5605bc5970') in 0.004952 seconds
+  Import took 0.010597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000717 seconds.
+  path: Assets/Scripts/PlayerMovement.cs
+  artifactKey: Guid(553cb2363c3694b41ba72e77394d029e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerMovement.cs using Guid(553cb2363c3694b41ba72e77394d029e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e760dc866d5726eb47b57c5605bc5970') in 0.003587 seconds
+  Import took 0.006731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.669685 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(6b15cd4eeb3ada64783fb0e8d3524cd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(6b15cd4eeb3ada64783fb0e8d3524cd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f430f0d45700b711025e12033afef88') in 0.006113 seconds
+  Import took 0.010991 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.069438 seconds.
+  path: Assets/PlayerMovement.cs
+  artifactKey: Guid(9e47997f1777f3b46bdccfd5e403cc6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerMovement.cs using Guid(9e47997f1777f3b46bdccfd5e403cc6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '342d0a636b6857aebac3ae11a04c92d9') in 0.004336 seconds
+  Import took 0.008482 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000634 seconds.
+  path: Assets/PlayerMovement.cs
+  artifactKey: Guid(9e47997f1777f3b46bdccfd5e403cc6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerMovement.cs using Guid(9e47997f1777f3b46bdccfd5e403cc6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '342d0a636b6857aebac3ae11a04c92d9') in 0.003250 seconds
+  Import took 0.006566 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.626983 seconds.
+  path: Assets/objectMove.cs
+  artifactKey: Guid(f8b4ee3de79ced94f899211f815b38db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/objectMove.cs using Guid(f8b4ee3de79ced94f899211f815b38db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a763cbd80bb3963224ab8e767b135a8') in 0.003167 seconds
+  Import took 0.007818 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001291 seconds.
+  path: Assets/objectMove.cs
+  artifactKey: Guid(f8b4ee3de79ced94f899211f815b38db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/objectMove.cs using Guid(f8b4ee3de79ced94f899211f815b38db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a763cbd80bb3963224ab8e767b135a8') in 0.003644 seconds
+  Import took 0.009496 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001680 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.019 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.8 MB.
+System memory in use after: 88.0 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2299.
+Total: 3.641600 ms (FindLiveObjects: 0.372500 ms CreateObjectMapping: 0.119800 ms MarkObjects: 3.075200 ms  DeleteObjects: 0.071800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002001 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.137 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.00 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.9 MB.
+System memory in use after: 88.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2303.
+Total: 3.672500 ms (FindLiveObjects: 0.399500 ms CreateObjectMapping: 0.148000 ms MarkObjects: 3.086100 ms  DeleteObjects: 0.037000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001528 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.999 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.9 MB.
+System memory in use after: 88.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2307.
+Total: 2.298900 ms (FindLiveObjects: 0.356400 ms CreateObjectMapping: 0.093700 ms MarkObjects: 1.833100 ms  DeleteObjects: 0.014500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 52.3 MB.
+System memory in use after: 52.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2307.
+Total: 1.798300 ms (FindLiveObjects: 0.191600 ms CreateObjectMapping: 0.062900 ms MarkObjects: 1.517900 ms  DeleteObjects: 0.024800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004916 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.977 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.9 MB.
+System memory in use after: 88.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2311.
+Total: 2.367400 ms (FindLiveObjects: 0.263100 ms CreateObjectMapping: 0.077800 ms MarkObjects: 1.984400 ms  DeleteObjects: 0.040500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 337.136431 seconds.
+  path: Assets/level 1 stone.png
+  artifactKey: Guid(3df2c3674710d3b4fb7db5d7cf24966d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/level 1 stone.png using Guid(3df2c3674710d3b4fb7db5d7cf24966d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '425d3704332a929b8f853bf94d4d1a5e') in 0.081549 seconds
+  Import took 0.085718 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/Sprite-0006.png
+  artifactKey: Guid(7a262bd5387c1a14580ce2c16d9d738e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite-0006.png using Guid(7a262bd5387c1a14580ce2c16d9d738e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50f53a7c17dd86bb48c69c593b2b0826') in 0.016029 seconds
+  Import took 0.021544 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/Sprite-0004.png
+  artifactKey: Guid(8adcf49f27b18f7478f81d5ff96772f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite-0004.png using Guid(8adcf49f27b18f7478f81d5ff96772f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e0cd3d7e4de57866e7401faa78edd7e') in 0.033116 seconds
+  Import took 0.040485 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000566 seconds.
+  path: Assets/player.prefab
+  artifactKey: Guid(7a0307e48f36b7d459f7e9b95cd70669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/player.prefab using Guid(7a0307e48f36b7d459f7e9b95cd70669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e1b4b049e9c0270b127bc7116a52035') in 0.087481 seconds
+  Import took 0.094427 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.452369 seconds.
+  path: Assets/tilemaps/level 1 stone.png
+  artifactKey: Guid(d67c32a4c13235a479502a542ee47558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/level 1 stone.png using Guid(d67c32a4c13235a479502a542ee47558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c55ab40d96b518c43aa2b99fd7aec43') in 0.174676 seconds
+  Import took 0.179528 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/tilemaps/Sprite-0006.png
+  artifactKey: Guid(2995e3c83452fcf4aacd2087fe2dd6aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/Sprite-0006.png using Guid(2995e3c83452fcf4aacd2087fe2dd6aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fc083542689a0bfc587858704a4200c') in 0.010291 seconds
+  Import took 0.015220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.901207 seconds.
+  path: Assets/tilemaps/stone pallet
+  artifactKey: Guid(71edbb01677138545846acdd2145045e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet using Guid(71edbb01677138545846acdd2145045e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c2c73b4f839026eb3a2d9f0f2cfb725') in 0.003688 seconds
+  Import took 0.008869 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.068916 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_0.asset
+  artifactKey: Guid(89baa8519fbedbf4587f392a4eae8953) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_0.asset using Guid(89baa8519fbedbf4587f392a4eae8953) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb2a9bd0ff38676d96712b3ed1428e32') in 0.005089 seconds
+  Import took 0.008100 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_7.asset
+  artifactKey: Guid(c33204168c108f54cac2595d69acf18e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_7.asset using Guid(c33204168c108f54cac2595d69acf18e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4970cdc165c5811bf5738ad654881b47') in 0.003514 seconds
+  Import took 0.007071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000589 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_15.asset
+  artifactKey: Guid(cc7e421173dcadc43a1bcf2422d73121) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_15.asset using Guid(cc7e421173dcadc43a1bcf2422d73121) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a049836dd3614d5925b9bf7c0e5e4d94') in 0.005863 seconds
+  Import took 0.013132 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000499 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_26.asset
+  artifactKey: Guid(0ee977f77552d2640a54609330928ecb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_26.asset using Guid(0ee977f77552d2640a54609330928ecb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ce8eb1aabecbee350135e60849f72cf') in 0.005312 seconds
+  Import took 0.009626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_39.asset
+  artifactKey: Guid(7b14c8ccc2c8a5e4c899fe30f81066c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_39.asset using Guid(7b14c8ccc2c8a5e4c899fe30f81066c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16c276c36f56facefc90a5b1a11e1c75') in 0.003568 seconds
+  Import took 0.006256 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_50.asset
+  artifactKey: Guid(2bbfc8d782053c8409450f501069f3bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_50.asset using Guid(2bbfc8d782053c8409450f501069f3bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aae2dc02498ed3f905d0714152c39c80') in 0.007888 seconds
+  Import took 0.011975 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_63.asset
+  artifactKey: Guid(3f10d5c24e7ac0b469d85303cde653d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_63.asset using Guid(3f10d5c24e7ac0b469d85303cde653d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ad9db70b15aade6e4ca29009c954a9d') in 0.005623 seconds
+  Import took 0.010734 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000378 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_74.asset
+  artifactKey: Guid(6e754b6600813464b9da181ed2260fbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_74.asset using Guid(6e754b6600813464b9da181ed2260fbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f93865fd000bf829b4c97a87533bf01') in 0.003998 seconds
+  Import took 0.007767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_81.asset
+  artifactKey: Guid(9c50dc1b2eb9eb046a12e3378e53c79a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_81.asset using Guid(9c50dc1b2eb9eb046a12e3378e53c79a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '675858d4986299580a7e530a959e4a8e') in 0.005284 seconds
+  Import took 0.010302 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000409 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_95.asset
+  artifactKey: Guid(cf63f2fe4e312ab4a97babaa65448240) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_95.asset using Guid(cf63f2fe4e312ab4a97babaa65448240) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a1890aa20a110a01d85dee929895750') in 0.005562 seconds
+  Import took 0.011096 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_104.asset
+  artifactKey: Guid(1ac719ba9a241af42beaa947ec1e50ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_104.asset using Guid(1ac719ba9a241af42beaa947ec1e50ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2aadbf98de15dff6b92355561eebf6e') in 0.004360 seconds
+  Import took 0.008046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_114.asset
+  artifactKey: Guid(200a5d5eb9bcf1441b26dce3682ea7a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_114.asset using Guid(200a5d5eb9bcf1441b26dce3682ea7a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '272d88953c132955689c79134d7b9f33') in 0.004720 seconds
+  Import took 0.009252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000508 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_105.asset
+  artifactKey: Guid(58bd4f705f555d2428b8e32dd55769d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_105.asset using Guid(58bd4f705f555d2428b8e32dd55769d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1f003edff9e2f873b63871924275e3f') in 0.005749 seconds
+  Import took 0.012079 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000442 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_106.asset
+  artifactKey: Guid(393d0819d240c5f498875e0737d8aafe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_106.asset using Guid(393d0819d240c5f498875e0737d8aafe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72142bd154227d5a5f5b0c6aa558818d') in 0.005518 seconds
+  Import took 0.010582 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_89.asset
+  artifactKey: Guid(50fc969bf719d574fa67d0fb089a25bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_89.asset using Guid(50fc969bf719d574fa67d0fb089a25bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b8d78adf19665ba28f7267a65df1a42') in 0.007451 seconds
+  Import took 0.013798 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000438 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_113.asset
+  artifactKey: Guid(81f3815efd39f5e4891b21a4258f51ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_113.asset using Guid(81f3815efd39f5e4891b21a4258f51ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53bb5a5df95f83999fb89042bc78e611') in 0.008336 seconds
+  Import took 0.014862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_99.asset
+  artifactKey: Guid(ab9b15d5d6b3eca49b581a357c63e88b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_99.asset using Guid(ab9b15d5d6b3eca49b581a357c63e88b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a724157c3cbdfa9cae15b8b1538346b') in 0.004628 seconds
+  Import took 0.009841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000540 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_88.asset
+  artifactKey: Guid(38980dcca41b95a4d8d5ab48dbf9a5a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_88.asset using Guid(38980dcca41b95a4d8d5ab48dbf9a5a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcc78af9e09ac7e232af1de7c2edceab') in 0.008332 seconds
+  Import took 0.016632 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_112.asset
+  artifactKey: Guid(cd675addbb5183544ac36b36a9c8ff0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_112.asset using Guid(cd675addbb5183544ac36b36a9c8ff0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cd5e394fffaacdf3e740de0a67aeb01') in 0.005733 seconds
+  Import took 0.011148 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000352 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_58.asset
+  artifactKey: Guid(37c56245aa61ea6408c9ad11f570cd48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_58.asset using Guid(37c56245aa61ea6408c9ad11f570cd48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecdac25999dfe2e989645012a0ba6ad7') in 0.008453 seconds
+  Import took 0.014759 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000422 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_96.asset
+  artifactKey: Guid(2cd85a5e08121434a9128d990bc8bb36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_96.asset using Guid(2cd85a5e08121434a9128d990bc8bb36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63af942f6d8b301f3999a8312fe47e2c') in 0.008831 seconds
+  Import took 0.015243 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_56.asset
+  artifactKey: Guid(d71e786276a831b4e869c787140ca805) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_56.asset using Guid(d71e786276a831b4e869c787140ca805) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcb2623e69573caddaf0091a36d7a0f4') in 0.006090 seconds
+  Import took 0.013564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000420 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_103.asset
+  artifactKey: Guid(1277ba5d1c41e174bb269b0bee04810f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_103.asset using Guid(1277ba5d1c41e174bb269b0bee04810f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3008fdb90641f218a6a66794d5ae2d7') in 0.007706 seconds
+  Import took 0.012521 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_69.asset
+  artifactKey: Guid(05e087a58e8591743b5d6942218d2bab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_69.asset using Guid(05e087a58e8591743b5d6942218d2bab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3202d419ac63a0c86347714ac31e8d77') in 0.007017 seconds
+  Import took 0.011713 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_111.asset
+  artifactKey: Guid(9be0662204d5b534c91f874dcb9ebcc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_111.asset using Guid(9be0662204d5b534c91f874dcb9ebcc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '048caaaa2a952442f9352d329e7d0ba1') in 0.004302 seconds
+  Import took 0.007540 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_49.asset
+  artifactKey: Guid(d0e0b3cf627e0f1409d8e92d19fd1202) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_49.asset using Guid(d0e0b3cf627e0f1409d8e92d19fd1202) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90e99bb3721762deaeaf9395bb36af9c') in 0.003779 seconds
+  Import took 0.007206 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000424 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_83.asset
+  artifactKey: Guid(54de6b05e86e5694888326cdc36ce8ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_83.asset using Guid(54de6b05e86e5694888326cdc36ce8ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f950c42e5dfb6e27c1e300bacd29cff') in 0.006286 seconds
+  Import took 0.011968 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000402 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_117.asset
+  artifactKey: Guid(89e90d9a5eb3ec24f97d2c4f96f7ab1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_117.asset using Guid(89e90d9a5eb3ec24f97d2c4f96f7ab1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03a7d6ea7c5b1cc632828dfa5f45351c') in 0.005144 seconds
+  Import took 0.010631 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000541 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_110.asset
+  artifactKey: Guid(0e507126dbd96904190844754a54f307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_110.asset using Guid(0e507126dbd96904190844754a54f307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bc191d7198be462828906ac045d4541') in 0.006386 seconds
+  Import took 0.013136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000435 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_12.asset
+  artifactKey: Guid(830518744fd978c40bafcd35a224e5e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_12.asset using Guid(830518744fd978c40bafcd35a224e5e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bf9b4e6152553acbc0b7814763aa7ac') in 0.005712 seconds
+  Import took 0.009894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000460 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_84.asset
+  artifactKey: Guid(0de14333de4b4594788a0fc55845c695) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_84.asset using Guid(0de14333de4b4594788a0fc55845c695) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40a5ef9a4b3204e05d0094e96b4055c4') in 0.006035 seconds
+  Import took 0.010938 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_21.asset
+  artifactKey: Guid(e543a167c6b6eeb42b38f2e1cb32d16a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_21.asset using Guid(e543a167c6b6eeb42b38f2e1cb32d16a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68dede662a654c474cddcaa7dfe463be') in 0.005482 seconds
+  Import took 0.010123 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_60.asset
+  artifactKey: Guid(0af3304e5366d4e4d8a1dc3bb9a9c529) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_60.asset using Guid(0af3304e5366d4e4d8a1dc3bb9a9c529) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90281108849ce9deb35d279e899a1d28') in 0.003707 seconds
+  Import took 0.006563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_28.asset
+  artifactKey: Guid(37a0679506e387d4684f8cce4fce7204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_28.asset using Guid(37a0679506e387d4684f8cce4fce7204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e5931d5770902164c387c64121c338c') in 0.005055 seconds
+  Import took 0.009865 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000440 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_93.asset
+  artifactKey: Guid(e8d20b7c7a3dd904f87440e4dfc1b30d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_93.asset using Guid(e8d20b7c7a3dd904f87440e4dfc1b30d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c2ce1f854eb1b4d884c52019098687b') in 0.005979 seconds
+  Import took 0.011596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_36.asset
+  artifactKey: Guid(d0953aadecad7d249a24abefc21857f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_36.asset using Guid(d0953aadecad7d249a24abefc21857f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a71cdfccc581b4539f11f89d472565d0') in 0.004509 seconds
+  Import took 0.008916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_48.asset
+  artifactKey: Guid(8c07137d1c12b9b4aa06ade88f42aa04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_48.asset using Guid(8c07137d1c12b9b4aa06ade88f42aa04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '889935b80ecf0b197a581b34de13a555') in 0.003832 seconds
+  Import took 0.007863 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_5.asset
+  artifactKey: Guid(0ea0c58c9dda28849a64e078bab48a64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_5.asset using Guid(0ea0c58c9dda28849a64e078bab48a64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '672dfa43cfad71973f497054ceeaa146') in 0.005722 seconds
+  Import took 0.011271 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_57.asset
+  artifactKey: Guid(c6ba490ee9f519145ac8c5385494c445) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_57.asset using Guid(c6ba490ee9f519145ac8c5385494c445) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9fbffc64ab0a2b81cffd703899fec72') in 0.005428 seconds
+  Import took 0.009718 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_52.asset
+  artifactKey: Guid(e2d2e66f6a79c08449362620679c3c93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_52.asset using Guid(e2d2e66f6a79c08449362620679c3c93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2f5668e2fdad11a16727a737d194602') in 0.003854 seconds
+  Import took 0.007384 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_101.asset
+  artifactKey: Guid(3d8308beab9d62b46a6493ed02da2c79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_101.asset using Guid(3d8308beab9d62b46a6493ed02da2c79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4e56c616710410c262c3328f65c2417') in 0.007036 seconds
+  Import took 0.012741 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000542 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_24.asset
+  artifactKey: Guid(43417bf8069dc31408ff791ced8f4c57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_24.asset using Guid(43417bf8069dc31408ff791ced8f4c57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce2de980d8ef59eaa08fb028d9bfd87e') in 0.005516 seconds
+  Import took 0.009977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_25.asset
+  artifactKey: Guid(f52bb00f5e58597409be08f3daee82a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_25.asset using Guid(f52bb00f5e58597409be08f3daee82a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a79a170854b06888f5fcd5e043b8c60e') in 0.003622 seconds
+  Import took 0.006512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_94.asset
+  artifactKey: Guid(d44e8d9fa9cb3134b8bed41402020d1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_94.asset using Guid(d44e8d9fa9cb3134b8bed41402020d1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c94586226d16e322ead9b4911cf3b95') in 0.005174 seconds
+  Import took 0.009750 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_86.asset
+  artifactKey: Guid(53c7a5eaf4b8c93439dabf740a2d8ca5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_86.asset using Guid(53c7a5eaf4b8c93439dabf740a2d8ca5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dfc7a5fa1dc5e22668a222175a67644') in 0.007632 seconds
+  Import took 0.013258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_109.asset
+  artifactKey: Guid(903acab04b5c7b447a03327a01e10b96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_109.asset using Guid(903acab04b5c7b447a03327a01e10b96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c4e9ff012ecd372343358213a28bc20') in 0.003786 seconds
+  Import took 0.007340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_14.asset
+  artifactKey: Guid(4ace7942f52139a44b81807c399a773f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_14.asset using Guid(4ace7942f52139a44b81807c399a773f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31ed4dca8d72e04a6d4f380137550d20') in 0.004831 seconds
+  Import took 0.009598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000388 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_37.asset
+  artifactKey: Guid(cac6d56e683d83f478d874c8dfbc0c85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_37.asset using Guid(cac6d56e683d83f478d874c8dfbc0c85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5087d68929ec25b9515a8b6a347af5e0') in 0.005508 seconds
+  Import took 0.010309 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_31.asset
+  artifactKey: Guid(a9e0966bc92c4c7488c72f9f61bd5c5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_31.asset using Guid(a9e0966bc92c4c7488c72f9f61bd5c5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98b04a7ba1b13dd23b437a438c1877c6') in 0.003878 seconds
+  Import took 0.007374 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_34.asset
+  artifactKey: Guid(59cfe26baa66da5428f6e2340f42c76c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_34.asset using Guid(59cfe26baa66da5428f6e2340f42c76c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78d825009616068feda61419444b205b') in 0.003481 seconds
+  Import took 0.006367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_97.asset
+  artifactKey: Guid(66699bba6524bcc4a9fb2bb181b1fb2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_97.asset using Guid(66699bba6524bcc4a9fb2bb181b1fb2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a455fd5334ce3ca72eee0393903351b2') in 0.006488 seconds
+  Import took 0.010728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_23.asset
+  artifactKey: Guid(38218f66df9ceef4fb77bf8c66f3ebbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_23.asset using Guid(38218f66df9ceef4fb77bf8c66f3ebbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9770409b91c309a745e174f4baae3f52') in 0.005781 seconds
+  Import took 0.010686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000368 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_59.asset
+  artifactKey: Guid(001a1c4d42e99bd4b92f5540ef7ea256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_59.asset using Guid(001a1c4d42e99bd4b92f5540ef7ea256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f722c7801689a783df0b11118100c9a') in 0.003385 seconds
+  Import took 0.006533 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_77.asset
+  artifactKey: Guid(923d740896cae7942a07ba1e4e95a1ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_77.asset using Guid(923d740896cae7942a07ba1e4e95a1ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '492425186f0e9afbe80b768c69354270') in 0.003318 seconds
+  Import took 0.006199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_55.asset
+  artifactKey: Guid(0a5626512d62d2c41a6039e3584f4aeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_55.asset using Guid(0a5626512d62d2c41a6039e3584f4aeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08217bdb31ce3b2472e006391198c680') in 0.005627 seconds
+  Import took 0.010481 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_6.asset
+  artifactKey: Guid(0f66a949ee99fca48bb674bef2a7274a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_6.asset using Guid(0f66a949ee99fca48bb674bef2a7274a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3133b8e5125814794bdd71c1a0f16586') in 0.005706 seconds
+  Import took 0.010241 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_98.asset
+  artifactKey: Guid(a08dfe25f8fd13e44bf971b04b9ef452) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_98.asset using Guid(a08dfe25f8fd13e44bf971b04b9ef452) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e99d3cccdf82e972199a62eb31fb5e4') in 0.003792 seconds
+  Import took 0.007708 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_42.asset
+  artifactKey: Guid(d2adf22e090eee241848305812939e6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_42.asset using Guid(d2adf22e090eee241848305812939e6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcf15aa4a3c7ab63510a767952dba459') in 0.007101 seconds
+  Import took 0.011020 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000403 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_72.asset
+  artifactKey: Guid(028b967fe77b35d46afbe3f51d58fa4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_72.asset using Guid(028b967fe77b35d46afbe3f51d58fa4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b46afe0bcedd1cd325113ab0f867d97f') in 0.005246 seconds
+  Import took 0.010349 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_18.asset
+  artifactKey: Guid(e7a381bc61d44dc4783397cba85d04e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_18.asset using Guid(e7a381bc61d44dc4783397cba85d04e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50e105a2bceeb0582fd92a9ffdb16d75') in 0.003507 seconds
+  Import took 0.006739 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_80.asset
+  artifactKey: Guid(aaac5fb916eaca44584a99aab61bfa77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_80.asset using Guid(aaac5fb916eaca44584a99aab61bfa77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '322e7e127d66d80ac97401c1bb155bcc') in 0.003552 seconds
+  Import took 0.006849 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000611 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_92.asset
+  artifactKey: Guid(b452f4118af78b041858e442211f91b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_92.asset using Guid(b452f4118af78b041858e442211f91b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fabeb520b528d7c8af4437d42bfd62a1') in 0.005458 seconds
+  Import took 0.011317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000475 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_8.asset
+  artifactKey: Guid(963fac0698512504c8d9d542758cad29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_8.asset using Guid(963fac0698512504c8d9d542758cad29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '303bca8147e4aa1c99ce11b4cd3eb82e') in 0.005845 seconds
+  Import took 0.010226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_65.asset
+  artifactKey: Guid(597a782001566574eb69621ec76311bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_65.asset using Guid(597a782001566574eb69621ec76311bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6f28f960d2fe503f8e62da6553faed7') in 0.003529 seconds
+  Import took 0.006423 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_78.asset
+  artifactKey: Guid(766f8810cce428149b34100eaa36b094) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_78.asset using Guid(766f8810cce428149b34100eaa36b094) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d928e8367adad3a87f8fcc6d42f41f2') in 0.006090 seconds
+  Import took 0.010663 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000454 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_68.asset
+  artifactKey: Guid(da82701c6a80bdd4cb965a7dbb1a3f1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_68.asset using Guid(da82701c6a80bdd4cb965a7dbb1a3f1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a91138b355cc7dcb9e18c297f299c950') in 0.006345 seconds
+  Import took 0.011210 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_13.asset
+  artifactKey: Guid(6d91ff5c0ddaf7546bdfa2b08c85ba32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_13.asset using Guid(6d91ff5c0ddaf7546bdfa2b08c85ba32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be22d7445d7873e96f2105366f54531d') in 0.007836 seconds
+  Import took 0.014394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000636 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_46.asset
+  artifactKey: Guid(745037f7ab6ce5143b17c4d031996789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_46.asset using Guid(745037f7ab6ce5143b17c4d031996789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56810e6de3aab9c69619d6237f4defda') in 0.006365 seconds
+  Import took 0.013867 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000487 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_10.asset
+  artifactKey: Guid(8fc4866639fb1f448bf2d0b4281363ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_10.asset using Guid(8fc4866639fb1f448bf2d0b4281363ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54d4d9cd6927531b99ad1fb8007977d2') in 0.006029 seconds
+  Import took 0.011569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_45.asset
+  artifactKey: Guid(fe47e9c6cf83a344783bc15806027474) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_45.asset using Guid(fe47e9c6cf83a344783bc15806027474) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8f737ae2b49b91e53d09e8919f049c0') in 0.008659 seconds
+  Import took 0.015102 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000532 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_47.asset
+  artifactKey: Guid(da3b5f65a5195a14ca900478615b23c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_47.asset using Guid(da3b5f65a5195a14ca900478615b23c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8deaaadb2236472ec400aeaa3ae2e15') in 0.007254 seconds
+  Import took 0.013279 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000441 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_32.asset
+  artifactKey: Guid(6e68cc0e8d8012441a6fdb89bfbad045) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_32.asset using Guid(6e68cc0e8d8012441a6fdb89bfbad045) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32e8dc61a27017c36087c78479380416') in 0.007549 seconds
+  Import took 0.014483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000458 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_75.asset
+  artifactKey: Guid(9d826c11332845a47bc49510d0b85615) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_75.asset using Guid(9d826c11332845a47bc49510d0b85615) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0642f9828b43904903c2649dda436997') in 0.005948 seconds
+  Import took 0.011225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000470 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_70.asset
+  artifactKey: Guid(12b81965529554e4ea0b6dc2d3d9a1ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_70.asset using Guid(12b81965529554e4ea0b6dc2d3d9a1ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6864c08bdea76cf93b2cbb655af10763') in 0.006749 seconds
+  Import took 0.014136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000592 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_27.asset
+  artifactKey: Guid(3e4f60d954fbd18418e0ffdc83030f56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_27.asset using Guid(3e4f60d954fbd18418e0ffdc83030f56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14f1d624dc5f249ccf31954a346bb02f') in 0.007675 seconds
+  Import took 0.017335 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000500 seconds.
+  path: Assets/tilemaps/stone pallet/stone tiles.prefab
+  artifactKey: Guid(538999b358faeba4880ebb31e25d43d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/stone tiles.prefab using Guid(538999b358faeba4880ebb31e25d43d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7b0cfb8c9e60f7870fe4bc69208d5b1') in 0.009382 seconds
+  Import took 0.016476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000504 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_87.asset
+  artifactKey: Guid(48b0a4e17722a074f807b805b431e314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_87.asset using Guid(48b0a4e17722a074f807b805b431e314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9d28217fd9f893506fffff3d22b7478') in 0.006340 seconds
+  Import took 0.012220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000437 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_66.asset
+  artifactKey: Guid(7bca9cf3385d37f48a7f49ed787d010b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_66.asset using Guid(7bca9cf3385d37f48a7f49ed787d010b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5acddf074bc0d40b283a8a328f496d41') in 0.005011 seconds
+  Import took 0.009041 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_61.asset
+  artifactKey: Guid(e2b79e9646b34644cb63d8f33fa9e06f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_61.asset using Guid(e2b79e9646b34644cb63d8f33fa9e06f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df2bd520ca83eba9cfd7192740a4b522') in 0.003595 seconds
+  Import took 0.007406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000421 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_82.asset
+  artifactKey: Guid(4778e8872efa6e74da1c307d820165b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_82.asset using Guid(4778e8872efa6e74da1c307d820165b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2226a74a68395b65a0a791804a296ff7') in 0.005495 seconds
+  Import took 0.010975 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_102.asset
+  artifactKey: Guid(74019ccc02c47fc40b8f1129618842e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_102.asset using Guid(74019ccc02c47fc40b8f1129618842e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '790472838a426c7637f93e2f25b47c73') in 0.006282 seconds
+  Import took 0.009794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_20.asset
+  artifactKey: Guid(f43e3d32df5aeca4495ff884e6a52178) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_20.asset using Guid(f43e3d32df5aeca4495ff884e6a52178) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89919ae8a770ebc1b7a9ab94a3c21638') in 0.003742 seconds
+  Import took 0.006635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_44.asset
+  artifactKey: Guid(bccdf8e9ed12c6542bb640bdb8dbdaf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_44.asset using Guid(bccdf8e9ed12c6542bb640bdb8dbdaf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8334122df29077efaf7bae2bca5af088') in 0.006529 seconds
+  Import took 0.010726 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_51.asset
+  artifactKey: Guid(5dfb74d2e628a064da407549feea2833) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_51.asset using Guid(5dfb74d2e628a064da407549feea2833) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60c606347a8217a4b949d1ff7fef8946') in 0.006977 seconds
+  Import took 0.012478 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_30.asset
+  artifactKey: Guid(816a98742ae48744d96dde2ca9b5b5f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_30.asset using Guid(816a98742ae48744d96dde2ca9b5b5f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b7d3107a8fe42f17d8e7bf107e74387') in 0.004612 seconds
+  Import took 0.007700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_17.asset
+  artifactKey: Guid(5171234c28f2e65439715b4a55d9806a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_17.asset using Guid(5171234c28f2e65439715b4a55d9806a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ab9caf00003831c2221a61316601321') in 0.005588 seconds
+  Import took 0.010495 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_90.asset
+  artifactKey: Guid(88901609d9795ec42b49965693869715) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_90.asset using Guid(88901609d9795ec42b49965693869715) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c705208bffb71d849e2ca19a959a1574') in 0.006413 seconds
+  Import took 0.011101 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_107.asset
+  artifactKey: Guid(e848900e1653256449a1791e347ff742) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_107.asset using Guid(e848900e1653256449a1791e347ff742) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d1cded7f1cbe2607b0ec5f1540b1203') in 0.004262 seconds
+  Import took 0.008200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_71.asset
+  artifactKey: Guid(2c4ee21611368b24e86586a6a6de627c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_71.asset using Guid(2c4ee21611368b24e86586a6a6de627c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33cf519f15fe7e8a7a167db097181c6f') in 0.004325 seconds
+  Import took 0.009579 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000429 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_9.asset
+  artifactKey: Guid(fcae2be307c724244a90127825eb86b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_9.asset using Guid(fcae2be307c724244a90127825eb86b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c60b4e9ad26d40bc2b077dd08baa1ef') in 0.005391 seconds
+  Import took 0.010851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_73.asset
+  artifactKey: Guid(c1f7e21381ad455438e47db0c4a80ae5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_73.asset using Guid(c1f7e21381ad455438e47db0c4a80ae5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '732db468b32195dc27f4b81dc14c6349') in 0.005385 seconds
+  Import took 0.009932 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_91.asset
+  artifactKey: Guid(cb48d89d919d5a941aeec41c65daf8ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_91.asset using Guid(cb48d89d919d5a941aeec41c65daf8ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2892d8fa91e5067e014fc26072f5ed7e') in 0.004083 seconds
+  Import took 0.007554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000473 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_16.asset
+  artifactKey: Guid(f691d36ad5390b14b9ce4d063f17ffd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_16.asset using Guid(f691d36ad5390b14b9ce4d063f17ffd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63f66912dd36b9de75704b413daa724b') in 0.007255 seconds
+  Import took 0.013173 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000397 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_54.asset
+  artifactKey: Guid(0138e70a6e6577d459886f34c4360405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_54.asset using Guid(0138e70a6e6577d459886f34c4360405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8c08cb4b4c2fed48da99f5e1ba2ab89') in 0.005590 seconds
+  Import took 0.010035 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_76.asset
+  artifactKey: Guid(8a06e08483f0895469a961543698b7a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_76.asset using Guid(8a06e08483f0895469a961543698b7a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6aa92220feff04369f0d128cfb6d65b6') in 0.004002 seconds
+  Import took 0.007150 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_64.asset
+  artifactKey: Guid(5bec4f74640f05540a13aa40aed253f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_64.asset using Guid(5bec4f74640f05540a13aa40aed253f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b1a00bc6b28fc82a42e0602bd088c5f') in 0.009122 seconds
+  Import took 0.014766 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_22.asset
+  artifactKey: Guid(69d1541ebaf4ea846b96d4821ffd4173) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_22.asset using Guid(69d1541ebaf4ea846b96d4821ffd4173) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f34b14075633ddb080b2a117bd8a520') in 0.006359 seconds
+  Import took 0.010698 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_115.asset
+  artifactKey: Guid(f3fe8342ec357e741a7a76017a7fb0bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_115.asset using Guid(f3fe8342ec357e741a7a76017a7fb0bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61a33aa74451d0191c316cef408ca198') in 0.003867 seconds
+  Import took 0.007518 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000461 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_1.asset
+  artifactKey: Guid(37849089fe1541b4ab2147167cd10f0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_1.asset using Guid(37849089fe1541b4ab2147167cd10f0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33ade7f3673177dfc313b44035806af5') in 0.005601 seconds
+  Import took 0.011095 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000441 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_85.asset
+  artifactKey: Guid(ac55c1164c5eceb47bfda9d2f0643c06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_85.asset using Guid(ac55c1164c5eceb47bfda9d2f0643c06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '842fee82f6fb23c1e8784135f0aa1cd8') in 0.007796 seconds
+  Import took 0.011215 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_38.asset
+  artifactKey: Guid(4e728b397901c864a92d7dff94400d87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_38.asset using Guid(4e728b397901c864a92d7dff94400d87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '587c5601e101ad13411dbc9ab08f0a37') in 0.004520 seconds
+  Import took 0.007850 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_67.asset
+  artifactKey: Guid(e07b2b960db2f614f94920ef30b5e7d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_67.asset using Guid(e07b2b960db2f614f94920ef30b5e7d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d8e0abf02a2800fbe36f7d179cdc287') in 0.006528 seconds
+  Import took 0.011599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_79.asset
+  artifactKey: Guid(94266253ac8862847ae2119ed763b799) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_79.asset using Guid(94266253ac8862847ae2119ed763b799) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51509fcefb07f554c0773310cb8b5d82') in 0.006367 seconds
+  Import took 0.011119 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_2.asset
+  artifactKey: Guid(ddc3eb07567c0ad4682e8dda42b99a93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_2.asset using Guid(ddc3eb07567c0ad4682e8dda42b99a93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96c5d79ea9c6688a4cb79756c3c42230') in 0.003890 seconds
+  Import took 0.007386 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_116.asset
+  artifactKey: Guid(0705a3af454825c41b73682c31f5074a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_116.asset using Guid(0705a3af454825c41b73682c31f5074a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0caefb63d98f5ee84f031c731c434a4b') in 0.007137 seconds
+  Import took 0.011529 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000410 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_3.asset
+  artifactKey: Guid(d0254ed2314a101409919b217eb4a556) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_3.asset using Guid(d0254ed2314a101409919b217eb4a556) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4df5d5a8a1bb87ea1120ee30ef6c1c5') in 0.005822 seconds
+  Import took 0.011327 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_4.asset
+  artifactKey: Guid(ddcd24dad83e634429f02cf0cc4196f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_4.asset using Guid(ddcd24dad83e634429f02cf0cc4196f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '593e9760fe2b5df62a749733bd09a83a') in 0.003939 seconds
+  Import took 0.007253 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_29.asset
+  artifactKey: Guid(741b5359c0716434a855d646f09d4f0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_29.asset using Guid(741b5359c0716434a855d646f09d4f0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '781fd5f87aac0050aa2f029e77052d51') in 0.005733 seconds
+  Import took 0.010801 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_43.asset
+  artifactKey: Guid(86c8dc02aba9e754cbfebccdca27fd86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_43.asset using Guid(86c8dc02aba9e754cbfebccdca27fd86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31adc9ca4765a3e11156aaa41c597d9a') in 0.008236 seconds
+  Import took 0.013116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_35.asset
+  artifactKey: Guid(9fc6f02a45fb5f245a2fd6aa18418f0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_35.asset using Guid(9fc6f02a45fb5f245a2fd6aa18418f0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32ece44ed83032bd37d917274a3375d4') in 0.005511 seconds
+  Import took 0.010366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_53.asset
+  artifactKey: Guid(faeab867cdb6a25498270247962f3601) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_53.asset using Guid(faeab867cdb6a25498270247962f3601) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f21bd8bc6a6bb3b76c4f961786a66765') in 0.007716 seconds
+  Import took 0.012291 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000462 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_62.asset
+  artifactKey: Guid(9b8a6f8d8a7174c4780e388a3c67f9dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_62.asset using Guid(9b8a6f8d8a7174c4780e388a3c67f9dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08e55b9bf618f0f7265b8ef386f149c8') in 0.009904 seconds
+  Import took 0.014802 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_100.asset
+  artifactKey: Guid(d0e5da053ea903a449de48aeab022669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_100.asset using Guid(d0e5da053ea903a449de48aeab022669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '665f7fcaf91fc119926ad1aaa850dfbd') in 0.010085 seconds
+  Import took 0.017827 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000556 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_108.asset
+  artifactKey: Guid(eb9028f186a540b40afbd282be1e132c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_108.asset using Guid(eb9028f186a540b40afbd282be1e132c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '899379b75ce1b7c88a7ddc5eb8c3ef4b') in 0.008426 seconds
+  Import took 0.017894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000462 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_41.asset
+  artifactKey: Guid(888f7d6449b8e9340a1b97a468c1d1e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_41.asset using Guid(888f7d6449b8e9340a1b97a468c1d1e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '271b1a2d10163f95b03d193c83d07716') in 0.007463 seconds
+  Import took 0.015124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001098 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_40.asset
+  artifactKey: Guid(c1e7674713c5f1843bc9336a3ea78b29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_40.asset using Guid(c1e7674713c5f1843bc9336a3ea78b29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7933f8d7070816be339df0875a2798bc') in 0.009345 seconds
+  Import took 0.021174 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_11.asset
+  artifactKey: Guid(3392574c1057d3d428d629f900b7cb60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_11.asset using Guid(3392574c1057d3d428d629f900b7cb60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a549111aac3bb20fe374e3aee9b85f8') in 0.009715 seconds
+  Import took 0.019846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000470 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_19.asset
+  artifactKey: Guid(818fd5a78863fbc4d9b043c781747a9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_19.asset using Guid(818fd5a78863fbc4d9b043c781747a9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ffa0a990d6b31c84ecf16a9f37ac743') in 0.009571 seconds
+  Import took 0.017556 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000403 seconds.
+  path: Assets/tilemaps/stone pallet/level 1 stone_33.asset
+  artifactKey: Guid(f7c3d3e989443754496a9730babe0681) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemaps/stone pallet/level 1 stone_33.asset using Guid(f7c3d3e989443754496a9730babe0681) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc3da59bea5105dcf255183168a62e60') in 0.006898 seconds
+  Import took 0.015013 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003894 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.154 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.09 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.1 MB.
+System memory in use after: 88.2 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2316.
+Total: 5.083400 ms (FindLiveObjects: 0.703800 ms CreateObjectMapping: 0.180300 ms MarkObjects: 4.145600 ms  DeleteObjects: 0.048900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001623 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.907 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.95 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.1 MB.
+System memory in use after: 88.2 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2320.
+Total: 3.490500 ms (FindLiveObjects: 0.484600 ms CreateObjectMapping: 0.090300 ms MarkObjects: 2.867500 ms  DeleteObjects: 0.044100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001596 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.01 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.095 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.1 MB.
+System memory in use after: 88.2 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2324.
+Total: 4.756200 ms (FindLiveObjects: 0.787300 ms CreateObjectMapping: 0.209000 ms MarkObjects: 3.724500 ms  DeleteObjects: 0.032000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 308.413976 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(cdead10a5300cc040bbc9585f6683155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(cdead10a5300cc040bbc9585f6683155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13ddace2e6a12cc9936d7f2a2218cbbf') in 0.008140 seconds
+  Import took 0.012009 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.765549 seconds.
+  path: Assets/Scenes/level  1.unity
+  artifactKey: Guid(cfb02e69d92b47a4985586227bcc8d3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/level  1.unity using Guid(cfb02e69d92b47a4985586227bcc8d3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd585f9002b5412c5564accd8dd17f796') in 0.013849 seconds
+  Import took 0.018593 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 104.519225 seconds.
+  path: Assets/Scenes/dev_level.unity
+  artifactKey: Guid(a836026ad1ce58b478cc597c19a3f120) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/dev_level.unity using Guid(a836026ad1ce58b478cc597c19a3f120) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9115cd0f79dec55c614730536f861208') in 0.003839 seconds
+  Import took 0.007574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 133.643682 seconds.
+  path: Assets/Sprites/gem wall for progejt one.png
+  artifactKey: Guid(1bcb14f0df7660440abd4405278333fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/gem wall for progejt one.png using Guid(1bcb14f0df7660440abd4405278333fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bab9f2812c6b768b9c27902609747acb') in 0.044404 seconds
+  Import took 0.049163 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Sprites/Sprite-0001 sheet .png
+  artifactKey: Guid(3e0ee9a82c7f0664398b959f649b7530) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sprite-0001 sheet .png using Guid(3e0ee9a82c7f0664398b959f649b7530) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60e96903a93d10f0fdf9a2694a4ed809') in 0.027867 seconds
+  Import took 0.030894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000428 seconds.
+  path: Assets/Sprites/Sprite-0001.png
+  artifactKey: Guid(c689eb3942971a54ab9acb940ffcd11f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sprite-0001.png using Guid(c689eb3942971a54ab9acb940ffcd11f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e251f88167dda238ee219ea5dfcb8b03') in 0.013132 seconds
+  Import took 0.017205 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/Sprites/Sprite-0003.png
+  artifactKey: Guid(5470eccf1eeefba44a2f4294148f7ba2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Sprite-0003.png using Guid(5470eccf1eeefba44a2f4294148f7ba2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe86e33ee3063d76cea8ce1340992061') in 0.019644 seconds
+  Import took 0.025704 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000557 seconds.
+  path: Assets/Sprites/wooden wall project one.png
+  artifactKey: Guid(3cb63b53359a5064796a63ad31bcdd8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/wooden wall project one.png using Guid(3cb63b53359a5064796a63ad31bcdd8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '543263418ef7b617eb4bd71fe4723e3f') in 0.023498 seconds
+  Import took 0.029489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/Sprites/level 1 stone.png
+  artifactKey: Guid(9628ed773604d3042a9edbe72de54c7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/level 1 stone.png using Guid(9628ed773604d3042a9edbe72de54c7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2084cd997968740a354eed8f51f46a1') in 0.057329 seconds
+  Import took 0.061077 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002046 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.074 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.73 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.2 MB.
+System memory in use after: 88.3 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2329.
+Total: 1.883300 ms (FindLiveObjects: 0.172200 ms CreateObjectMapping: 0.060600 ms MarkObjects: 1.636300 ms  DeleteObjects: 0.013200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 39.231979 seconds.
+  path: Assets/Sprites/wooden wall project one.png
+  artifactKey: Guid(3cb63b53359a5064796a63ad31bcdd8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/wooden wall project one.png using Guid(3cb63b53359a5064796a63ad31bcdd8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cdf5fb8eb4419b75abee893d78ab8bf') in 0.049567 seconds
+  Import took 0.054073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005427 seconds.
+  path: Assets/Sprites/wooden wall project one.png
+  artifactKey: Guid(3cb63b53359a5064796a63ad31bcdd8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/wooden wall project one.png using Guid(3cb63b53359a5064796a63ad31bcdd8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cdf5fb8eb4419b75abee893d78ab8bf') in 0.009047 seconds
+  Import took 0.014536 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.575982 seconds.
+  path: Assets/Sprites/wooden wall project one.png
+  artifactKey: Guid(3cb63b53359a5064796a63ad31bcdd8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/wooden wall project one.png using Guid(3cb63b53359a5064796a63ad31bcdd8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95aef2924c3f0c33292863d5600da21a') in 0.210966 seconds
+  Import took 0.214811 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002134 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.075 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.72 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.2 MB.
+System memory in use after: 88.3 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2334.
+Total: 3.960200 ms (FindLiveObjects: 0.692700 ms CreateObjectMapping: 0.167900 ms MarkObjects: 3.060500 ms  DeleteObjects: 0.035700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001865 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.119 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.2 MB.
+System memory in use after: 88.3 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2338.
+Total: 4.065400 ms (FindLiveObjects: 0.592700 ms CreateObjectMapping: 0.183900 ms MarkObjects: 3.254000 ms  DeleteObjects: 0.031400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002429 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.081 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.06 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.2 MB.
+System memory in use after: 88.4 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2342.
+Total: 7.276900 ms (FindLiveObjects: 0.406900 ms CreateObjectMapping: 0.109400 ms MarkObjects: 6.711100 ms  DeleteObjects: 0.035200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002665 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.29 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.119 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.89 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.2 MB.
+System memory in use after: 88.4 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2346.
+Total: 3.241400 ms (FindLiveObjects: 0.353000 ms CreateObjectMapping: 0.094500 ms MarkObjects: 2.746400 ms  DeleteObjects: 0.030800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003136 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.110 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.72 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.3 MB.
+System memory in use after: 88.4 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2350.
+Total: 5.103500 ms (FindLiveObjects: 0.664100 ms CreateObjectMapping: 0.161000 ms MarkObjects: 4.227200 ms  DeleteObjects: 0.046100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001818 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.081 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.85 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.3 MB.
+System memory in use after: 88.4 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2354.
+Total: 4.172400 ms (FindLiveObjects: 0.343700 ms CreateObjectMapping: 0.108700 ms MarkObjects: 3.667100 ms  DeleteObjects: 0.050100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001707 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.116 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.3 MB.
+System memory in use after: 88.4 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2358.
+Total: 5.075300 ms (FindLiveObjects: 0.609600 ms CreateObjectMapping: 0.134300 ms MarkObjects: 4.292700 ms  DeleteObjects: 0.034500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001884 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.20 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.070 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.69 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.3 MB.
+System memory in use after: 88.4 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2362.
+Total: 4.334600 ms (FindLiveObjects: 0.581200 ms CreateObjectMapping: 0.161800 ms MarkObjects: 3.555200 ms  DeleteObjects: 0.032700 ms)
+>>>>>>> main
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
